@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "标题分隔虚线",
+    "texture": "85307dfd-afb0-49a8-8fa1-07c6339cbbb0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      16,
+      2
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      16,
+      2
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

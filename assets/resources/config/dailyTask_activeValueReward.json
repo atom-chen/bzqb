@@ -1,0 +1,8 @@
+[
+    {"id":1001,"type":1,"condition":25,"reward":[{"type":1,"itemId":99,"amount":100},{"type":2,"itemId":99,"amount":50},{"type":8,"itemId":10004,"amount":3}]},
+    {"id":1002,"type":1,"condition":50,"reward":[{"type":1,"itemId":99,"amount":200},{"type":2,"itemId":99,"amount":100},{"type":8,"itemId":10004,"amount":3}]},
+    {"id":1003,"type":1,"condition":75,"reward":[{"type":1,"itemId":99,"amount":300},{"type":2,"itemId":99,"amount":150},{"type":8,"itemId":10004,"amount":3}]},
+    {"id":1004,"type":1,"condition":100,"reward":[{"type":1,"itemId":99,"amount":400},{"type":2,"itemId":99,"amount":200},{"type":8,"itemId":10004,"amount":3}]},
+    {"id":2001,"type":2,"condition":300,"reward":[{"type":1,"itemId":99,"amount":1000},{"type":2,"itemId":99,"amount":500}]},
+    {"id":2002,"type":2,"condition":600,"reward":[{"type":1,"itemId":99,"amount":2000},{"type":2,"itemId":99,"amount":1000}]}
+]

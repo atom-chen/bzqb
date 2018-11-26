@@ -1,0 +1,68 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "Guild_Box",
+  "_objFlags": 0,
+  "_native": "",
+  "json": [
+    {
+      "boxLevel": 1,
+      "boxId": 8091,
+      "requiredKey": 10,
+      "cumulativeKey": 10
+    },
+    {
+      "boxLevel": 2,
+      "boxId": 8092,
+      "requiredKey": 10,
+      "cumulativeKey": 20
+    },
+    {
+      "boxLevel": 3,
+      "boxId": 8093,
+      "requiredKey": 10,
+      "cumulativeKey": 30
+    },
+    {
+      "boxLevel": 4,
+      "boxId": 8094,
+      "requiredKey": 10,
+      "cumulativeKey": 40
+    },
+    {
+      "boxLevel": 5,
+      "boxId": 8095,
+      "requiredKey": 10,
+      "cumulativeKey": 50
+    },
+    {
+      "boxLevel": 6,
+      "boxId": 8096,
+      "requiredKey": 10,
+      "cumulativeKey": 60
+    },
+    {
+      "boxLevel": 7,
+      "boxId": 8097,
+      "requiredKey": 10,
+      "cumulativeKey": 70
+    },
+    {
+      "boxLevel": 8,
+      "boxId": 8098,
+      "requiredKey": 10,
+      "cumulativeKey": 80
+    },
+    {
+      "boxLevel": 9,
+      "boxId": 8099,
+      "requiredKey": 10,
+      "cumulativeKey": 90
+    },
+    {
+      "boxLevel": 10,
+      "boxId": 8100,
+      "requiredKey": 10,
+      "cumulativeKey": 100
+    }
+  ]
+}

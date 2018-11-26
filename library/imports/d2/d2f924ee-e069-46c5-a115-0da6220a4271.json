@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "resetTalentBG",
+    "texture": "f24aef90-017e-47c7-8a40-23b0a38c92ac",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      609,
+      364
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      609,
+      364
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "dailyTask_dailyTask",
+  "_objFlags": 0,
+  "_native": "",
+  "json": [
+    {
+      "id": 101,
+      "name": "每日登录",
+      "des": "登录即可获得奖励",
+      "image": null,
+      "type": 1,
+      "parameter": 1,
+      "activeValue": 10,
+      "reward": [
+        {
+          "type": 9,
+          "itemId": 99,
+          "amount": 400
+        },
+        {
+          "type": 1,
+          "itemId": 99,
+          "amount": 50
+        }
+      ],
+      "Task_Son_Exp_Parameter": 4
+    },
+    {
+      "id": 102,
+      "name": "观看视频",
+      "des": "累计看广告3次",
+      "image": null,
+      "type": 2,
+      "parameter": 3,
+      "activeValue": 5,
+      "reward": [
+        {
+          "type": 9,
+          "itemId": 99,
+          "amount": 200
+        },
+        {
+          "type": 1,
+          "itemId": 99,
+          "amount": 100
+        }
+      ],
+      "Task_Son_Exp_Parameter": 2
+    },
+    {
+      "id": 103,
+      "name": "观看视频",
+      "des": "累计看广告7次",
+      "image": null,
+      "type": 2,
+      "parameter": 7,
+      "activeValue": 10,
+      "reward": [
+        {
+          "type": 9,
+          "itemId": 99,
+          "amount": 200
+        },
+        {
+          "type": 1,
+          "itemId": 99,
+          "amount": 100
+        }
+      ],
+      "Task_Son_Exp_Parameter": 2
+    },
+    {
+      "id": 104,
+      "name": "参与休闲竞技",
+      "des": "参与4场休闲竞技",
+      "image": null,
+      "type": 3,
+      "parameter": 4,
+      "activeValue": 15,
+      "reward": [
+        {
+          "type": 9,
+          "itemId": 99,
+          "amount": 650
+        },
+        {
+          "type": 1,
+          "itemId": 99,
+          "amount": 150
+        }
+      ],
+      "Task_Son_Exp_Parameter": 6
+    },
+    {
+      "id": 105,
+      "name": "参与四人混战",
+      "des": "参与4场四人混战",
+      "image": null,
+      "type": 4,
+      "parameter": 4,
+      "activeValue": 15,
+      "reward": [
+        {
+          "type": 9,
+          "itemId": 99,
+          "amount": 650
+        },
+        {
+          "type": 1,
+          "itemId": 99,
+          "amount": 150
+        }
+      ],
+      "Task_Son_Exp_Parameter": 6
+    },
+    {
+      "id": 106,
+      "name": "休闲竞技获胜",
+      "des": "在休闲竞技获胜3次",
+      "image": null,
+      "type": 5,
+      "parameter": 3,
+      "activeValue": 15,
+      "reward": [
+        {
+          "type": 9,
+          "itemId": 99,
+          "amount": 650
+        },
+        {
+          "type": 1,
+          "itemId": 99,
+          "amount": 150
+        }
+      ],
+      "Task_Son_Exp_Parameter": 6
+    },
+    {
+      "id": 107,
+      "name": "四人混战获胜",
+      "des": "在四人混战获得3次前2名",
+      "image": null,
+      "type": 6,
+      "parameter": 3,
+      "activeValue": 20,
+      "reward": [
+        {
+          "type": 9,
+          "itemId": 99,
+          "amount": 850
+        },
+        {
+          "type": 1,
+          "itemId": 99,
+          "amount": 200
+        }
+      ],
+      "Task_Son_Exp_Parameter": 8
+    },
+    {
+      "id": 108,
+      "name": "分享有礼",
+      "des": "任意分享1次",
+      "image": null,
+      "type": 7,
+      "parameter": 1,
+      "activeValue": 10,
+      "reward": [
+        {
+          "type": 9,
+          "itemId": 99,
+          "amount": 400
+        },
+        {
+          "type": 1,
+          "itemId": 99,
+          "amount": 100
+        }
+      ],
+      "Task_Son_Exp_Parameter": 4
+    },
+    {
+      "id": 109,
+      "name": "打开宝箱",
+      "des": "打开3个宝箱",
+      "image": null,
+      "type": 8,
+      "parameter": 3,
+      "activeValue": 15,
+      "reward": [
+        {
+          "type": 9,
+          "itemId": 99,
+          "amount": 650
+        },
+        {
+          "type": 1,
+          "itemId": 99,
+          "amount": 150
+        }
+      ],
+      "Task_Son_Exp_Parameter": 6
+    },
+    {
+      "id": 110,
+      "name": "友谊战",
+      "des": "友谊战胜利1次",
+      "image": null,
+      "type": 9,
+      "parameter": 1,
+      "activeValue": 10,
+      "reward": [
+        {
+          "type": 9,
+          "itemId": 99,
+          "amount": 400
+        },
+        {
+          "type": 1,
+          "itemId": 99,
+          "amount": 100
+        }
+      ],
+      "Task_Son_Exp_Parameter": 4
+    },
+    {
+      "id": 111,
+      "name": "世界发言",
+      "des": "在世界频道发言1次",
+      "image": null,
+      "type": 10,
+      "parameter": 1,
+      "activeValue": 5,
+      "reward": [
+        {
+          "type": 9,
+          "itemId": 99,
+          "amount": 200
+        },
+        {
+          "type": 1,
+          "itemId": 99,
+          "amount": 100
+        }
+      ],
+      "Task_Son_Exp_Parameter": 2
+    },
+    {
+      "id": 112,
+      "name": "月卡",
+      "des": "月卡用户每日福利",
+      "image": null,
+      "type": 11,
+      "parameter": 1,
+      "activeValue": 5,
+      "reward": [
+        {
+          "type": 2,
+          "itemId": 99,
+          "amount": 200
+        },
+        {
+          "type": 3,
+          "itemId": 99,
+          "amount": 10
+        }
+      ],
+      "Task_Son_Exp_Parameter": null
+    },
+    {
+      "id": 113,
+      "name": "终生卡",
+      "des": "终生卡用户每日福利",
+      "image": null,
+      "type": 12,
+      "parameter": 1,
+      "activeValue": 5,
+      "reward": [
+        {
+          "type": 1,
+          "itemId": 99,
+          "amount": 300
+        },
+        {
+          "type": 4,
+          "itemId": 1018,
+          "amount": 1
+        }
+      ],
+      "Task_Son_Exp_Parameter": null
+    }
+  ]
+}

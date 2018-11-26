@@ -1,0 +1,1 @@
+{"version":3,"sources":["fightSceneMgr.ts"],"names":[],"mappings":";;;;AAAA,UAAU;AACV,OAAO;AACP,OAAO;AACP,QAAQ;AACR,OAAO;AACP,OAAO;AACP,OAAO","file":"","sourceRoot":"..\\..\\..\\..\\..\\..\\..\\assets\\modules\\game\\script\\sceneMgr","sourcesContent":["// 管理场景的变化\n// 1，火柱\n// 2，热狗\n// 3，龙卷风\n// 4，空投\n// 5，大便\n// 6，风向"]}

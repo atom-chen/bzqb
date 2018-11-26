@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "返回-蓝色",
+    "texture": "bf9405d3-b686-4912-9bc0-c8628aac3fe6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      87,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      87,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

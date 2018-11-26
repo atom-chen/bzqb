@@ -1,0 +1,13 @@
+{
+    "dataSvrHost": "192.168.30.28", 
+    "dataSvrPort": 4001, 
+    "downLoadPage": "http://47.106.74.65/products_bzqb", 
+    "gameSvrHost": "192.168.30.28", 
+    "gameSvrPort": 5001, 
+    "gameSvrTag": "zxb_game", 
+    "hotUrl": "http://47.106.74.65/bzqbres", 
+    "payTest": 0, 
+    "platSvrHost": "192.168.20.16", 
+    "platSvrPort": 5200, 
+    "resUrl": "http://47.106.74.65/products_bzqb"
+}

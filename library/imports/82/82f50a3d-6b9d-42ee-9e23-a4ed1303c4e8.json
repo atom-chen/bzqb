@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "note_money",
+    "texture": "84f3bb63-3489-4324-a34c-659a190efea8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      602,
+      342
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      602,
+      342
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

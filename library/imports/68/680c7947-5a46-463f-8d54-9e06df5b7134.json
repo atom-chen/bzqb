@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "samll_map",
+    "texture": "ba39de6a-aa0a-4698-9226-779acfff05b0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      520,
+      240
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      520,
+      240
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

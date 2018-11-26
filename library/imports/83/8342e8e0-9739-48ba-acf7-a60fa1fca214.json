@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "corses_bg",
+    "texture": "b36b0c00-2c90-4b3b-bf65-7338521095d8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      257,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      257,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

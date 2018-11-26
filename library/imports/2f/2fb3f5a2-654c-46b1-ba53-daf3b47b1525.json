@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "modifyTotle",
+    "texture": "ef03e27d-5fdf-488f-9613-82b9bdcb3fd6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      111,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      111,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "crater",
+    "texture": "8e464d79-4847-4eb3-96ec-f1cd725a3f61",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      350,
+      245
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      350,
+      250
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

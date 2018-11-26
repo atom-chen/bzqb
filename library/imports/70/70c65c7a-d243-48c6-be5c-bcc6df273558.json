@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "crystalBG",
+    "texture": "088cfb2b-0f4b-4d71-983c-bc5e465d9031",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      801,
+      479
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      801,
+      479
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

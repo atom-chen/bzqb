@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "talenBig3",
+    "texture": "0de49c72-c6d9-48f3-84c0-e8640a654f57",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      105,
+      114
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

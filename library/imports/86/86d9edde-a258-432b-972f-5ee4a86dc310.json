@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "randomRewark",
+    "texture": "bb9ac04c-00d2-4cfd-8ccd-ef91bda931af",
+    "atlas": "",
+    "rect": [
+      40,
+      38,
+      452,
+      178
+    ],
+    "offset": [
+      4.5,
+      -7.5
+    ],
+    "originalSize": [
+      523,
+      239
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

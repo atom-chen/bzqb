@@ -1,0 +1,377 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "vip_vip",
+  "_objFlags": 0,
+  "_native": "",
+  "json": [
+    {
+      "viplv": 1,
+      "recharge": 100,
+      "privilege": [
+        {
+          "type": 5,
+          "boxtype": 4,
+          "amount": 1
+        },
+        {
+          "type": 4,
+          "itemId": 2001,
+          "amount": 30
+        },
+        {
+          "type": 4,
+          "itemId": 1002,
+          "amount": 30
+        }
+      ],
+      "price": 20,
+      "privilege_icon": null,
+      "welfare": [
+        {
+          "type": 1,
+          "itemId": 99,
+          "amount": 100
+        },
+        {
+          "type": 2,
+          "itemId": 99,
+          "amount": 100
+        }
+      ],
+      "welfare_icon": null,
+      "des": "VIP1特权\n累计充值100钻石可成为VIP1\n1、可购买VIP1专属礼包和领取每周福利礼包\n2、可在世界聊天发送白色弹幕",
+      "guildshop_time": 20,
+      "mysteryshop_time": 20,
+      "doublekey": 1,
+      "rewardrole": null
+    },
+    {
+      "viplv": 2,
+      "recharge": 500,
+      "privilege": [
+        {
+          "type": 5,
+          "boxtype": 4,
+          "amount": 1
+        },
+        {
+          "type": 4,
+          "itemId": 2001,
+          "amount": 30
+        },
+        {
+          "type": 4,
+          "itemId": 1002,
+          "amount": 30
+        }
+      ],
+      "price": 20,
+      "privilege_icon": null,
+      "welfare": [
+        {
+          "type": 1,
+          "itemId": 99,
+          "amount": 100
+        },
+        {
+          "type": 2,
+          "itemId": 99,
+          "amount": 100
+        }
+      ],
+      "welfare_icon": null,
+      "des": "VIP2特权\n累计充值500钻石可成为VIP2\n1、可购买VIP2专属礼包和领取每周福利礼包\n2、可在世界聊天发送白色弹幕\n3、每天可额外刷新公会商店2次\n4、胜利可获得双倍公会宝箱钥匙\n5、享受VIP1的所有特权",
+      "guildshop_time": 22,
+      "mysteryshop_time": 20,
+      "doublekey": 2,
+      "rewardrole": null
+    },
+    {
+      "viplv": 3,
+      "recharge": 1000,
+      "privilege": [
+        {
+          "type": 5,
+          "boxtype": 4,
+          "amount": 1
+        },
+        {
+          "type": 4,
+          "itemId": 2001,
+          "amount": 30
+        },
+        {
+          "type": 4,
+          "itemId": 1002,
+          "amount": 30
+        }
+      ],
+      "price": 20,
+      "privilege_icon": null,
+      "welfare": [
+        {
+          "type": 1,
+          "itemId": 99,
+          "amount": 100
+        },
+        {
+          "type": 2,
+          "itemId": 99,
+          "amount": 100
+        }
+      ],
+      "welfare_icon": null,
+      "des": "VIP3特权\n累计充值1000钻石可成为VIP3\n1、可购买VIP3专属礼包和领取每周福利礼包\n2、可在世界聊天发送绿色弹幕\n3、每天可额外刷新神秘商店3次\n4、享受VIP2的所有特权\n5、每日快速解锁卓越宝箱1次",
+      "guildshop_time": 22,
+      "mysteryshop_time": 23,
+      "doublekey": 2,
+      "rewardrole": null
+    },
+    {
+      "viplv": 4,
+      "recharge": 2000,
+      "privilege": [
+        {
+          "type": 5,
+          "boxtype": 4,
+          "amount": 1
+        },
+        {
+          "type": 4,
+          "itemId": 2001,
+          "amount": 30
+        },
+        {
+          "type": 4,
+          "itemId": 1002,
+          "amount": 30
+        }
+      ],
+      "price": 20,
+      "privilege_icon": null,
+      "welfare": [
+        {
+          "type": 1,
+          "itemId": 99,
+          "amount": 100
+        },
+        {
+          "type": 2,
+          "itemId": 99,
+          "amount": 100
+        }
+      ],
+      "welfare_icon": null,
+      "des": "VIP4特权\n累计充值2000钻石可成为VIP4\n1、可购买VIP4专属礼包和领取每周福利礼包\n2、可在世界聊天发送绿色弹幕\n3、每天可额外刷新公会商店3次\n4、享受VIP3的所有特权",
+      "guildshop_time": 23,
+      "mysteryshop_time": 23,
+      "doublekey": 2,
+      "rewardrole": null
+    },
+    {
+      "viplv": 5,
+      "recharge": 5000,
+      "privilege": [
+        {
+          "type": 5,
+          "boxtype": 4,
+          "amount": 1
+        },
+        {
+          "type": 4,
+          "itemId": 2001,
+          "amount": 30
+        },
+        {
+          "type": 4,
+          "itemId": 1002,
+          "amount": 30
+        }
+      ],
+      "price": 20,
+      "privilege_icon": null,
+      "welfare": [
+        {
+          "type": 1,
+          "itemId": 99,
+          "amount": 100
+        },
+        {
+          "type": 2,
+          "itemId": 99,
+          "amount": 100
+        }
+      ],
+      "welfare_icon": null,
+      "des": "VIP5特权\n累计充值5000钻石可成为VIP5\n1、可购买VIP5专属礼包和领取每周福利礼包\n2、可在世界聊天发送蓝色弹幕\n3、每天可额外刷新神秘商店4次\n4、享受VIP4的所有特权",
+      "guildshop_time": 23,
+      "mysteryshop_time": 24,
+      "doublekey": 2,
+      "rewardrole": null
+    },
+    {
+      "viplv": 6,
+      "recharge": 10000,
+      "privilege": [
+        {
+          "type": 5,
+          "boxtype": 4,
+          "amount": 1
+        },
+        {
+          "type": 4,
+          "itemId": 2001,
+          "amount": 30
+        },
+        {
+          "type": 4,
+          "itemId": 1002,
+          "amount": 30
+        }
+      ],
+      "price": 20,
+      "privilege_icon": null,
+      "welfare": [
+        {
+          "type": 1,
+          "itemId": 99,
+          "amount": 100
+        },
+        {
+          "type": 2,
+          "itemId": 99,
+          "amount": 100
+        }
+      ],
+      "welfare_icon": null,
+      "des": "VIP6特权\n累计充值10000钻石可成为VIP6\n1、可购买VIP6专属礼包和领取每周福利礼包\n2、可在世界聊天发送蓝色弹幕\n3、每天可额外刷新公会商店4次\n4、享受VIP5的所有特权\n5、解锁皮肤【西单的格子衬衫】",
+      "guildshop_time": 24,
+      "mysteryshop_time": 24,
+      "doublekey": 2,
+      "rewardrole": 1008
+    },
+    {
+      "viplv": 7,
+      "recharge": 20000,
+      "privilege": [
+        {
+          "type": 5,
+          "boxtype": 4,
+          "amount": 1
+        },
+        {
+          "type": 4,
+          "itemId": 2001,
+          "amount": 30
+        },
+        {
+          "type": 4,
+          "itemId": 1002,
+          "amount": 30
+        }
+      ],
+      "price": 20,
+      "privilege_icon": null,
+      "welfare": [
+        {
+          "type": 1,
+          "itemId": 99,
+          "amount": 100
+        },
+        {
+          "type": 2,
+          "itemId": 99,
+          "amount": 100
+        }
+      ],
+      "welfare_icon": null,
+      "des": "VIP7特权\n累计充值20000钻石可成为VIP7\n1、可购买VIP7专属礼包和领取每周福利礼包\n2、可在世界聊天发送黄色弹幕\n3、每天可额外刷新神秘商店5次\n4、享受VIP6的所有特权",
+      "guildshop_time": 24,
+      "mysteryshop_time": 25,
+      "doublekey": 2,
+      "rewardrole": null
+    },
+    {
+      "viplv": 8,
+      "recharge": 50000,
+      "privilege": [
+        {
+          "type": 5,
+          "boxtype": 4,
+          "amount": 1
+        },
+        {
+          "type": 4,
+          "itemId": 2001,
+          "amount": 30
+        },
+        {
+          "type": 4,
+          "itemId": 1002,
+          "amount": 30
+        }
+      ],
+      "price": 20,
+      "privilege_icon": null,
+      "welfare": [
+        {
+          "type": 1,
+          "itemId": 99,
+          "amount": 100
+        },
+        {
+          "type": 2,
+          "itemId": 99,
+          "amount": 100
+        }
+      ],
+      "welfare_icon": null,
+      "des": "VIP8特权\n累计充值50000钻石可成为VIP8\n1、可购买VIP8专属礼包和领取每周福利礼包\n2、可在世界聊天发送黄色弹幕\n3、每天可额外刷新公会商店5次\n4、享受VIP7的所有特权",
+      "guildshop_time": 25,
+      "mysteryshop_time": 25,
+      "doublekey": 2,
+      "rewardrole": null
+    },
+    {
+      "viplv": 9,
+      "recharge": 88888,
+      "privilege": [
+        {
+          "type": 5,
+          "boxtype": 4,
+          "amount": 1
+        },
+        {
+          "type": 4,
+          "itemId": 2001,
+          "amount": 30
+        },
+        {
+          "type": 4,
+          "itemId": 1002,
+          "amount": 30
+        }
+      ],
+      "price": 20,
+      "privilege_icon": null,
+      "welfare": [
+        {
+          "type": 1,
+          "itemId": 99,
+          "amount": 100
+        },
+        {
+          "type": 2,
+          "itemId": 99,
+          "amount": 100
+        }
+      ],
+      "welfare_icon": null,
+      "des": "VIP9特权\n累计充值88888钻石可成为VIP9\n1、可购买VIP9专属礼包和领取每周福利礼包\n2、可在世界聊天发送红色弹幕\n3、享受VIP8的所有特权\n4、解锁皮肤【陈彬的短裤】",
+      "guildshop_time": 25,
+      "mysteryshop_time": 25,
+      "doublekey": 2,
+      "rewardrole": 1007
+    }
+  ]
+}

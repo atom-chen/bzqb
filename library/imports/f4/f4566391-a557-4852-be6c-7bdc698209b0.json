@@ -1,0 +1,113 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "clientgm_gm",
+  "_objFlags": 0,
+  "_native": "",
+  "json": [
+    {
+      "name": 1,
+      "code": "gm_addUserExp",
+      "des": "添加用户经验",
+      "param1": "经验数量",
+      "param2": null
+    },
+    {
+      "name": 2,
+      "code": "gm_addUserCoin",
+      "des": "添加金币",
+      "param1": "金币数量",
+      "param2": null
+    },
+    {
+      "name": 3,
+      "code": "gm_addFenZuan",
+      "des": "添加粉钻",
+      "param1": "粉钻数量",
+      "param2": null
+    },
+    {
+      "name": 4,
+      "code": "gm_addBox",
+      "des": "添加宝箱",
+      "param1": "宝箱id",
+      "param2": null
+    },
+    {
+      "name": 5,
+      "code": "gm_addTeji",
+      "des": "添加特技",
+      "param1": "特技id",
+      "param2": null
+    },
+    {
+      "name": 6,
+      "code": "gm_addEmail",
+      "des": "添加邮件",
+      "param1": "邮件内容:string",
+      "param2": "邮件附件数组:json"
+    },
+    {
+      "name": 7,
+      "code": "gm_addHonor",
+      "des": "添加荣誉",
+      "param1": "荣誉数量",
+      "param2": null
+    },
+    {
+      "name": 8,
+      "code": "gm_addWinBattleCount",
+      "des": "添加胜利次数",
+      "param1": "战斗类型",
+      "param2": "次数"
+    },
+    {
+      "name": 9,
+      "code": "gm_addGoods",
+      "des": "添加物品",
+      "param1": "物品id",
+      "param2": null
+    },
+    {
+      "name": 10,
+      "code": "gm_addYueka",
+      "des": "添加月卡",
+      "param1": null,
+      "param2": null
+    },
+    {
+      "name": 11,
+      "code": "gm_addZhongShenKa",
+      "des": "添加终生卡",
+      "param1": null,
+      "param2": null
+    },
+    {
+      "name": 12,
+      "code": "gm_addGuildKey",
+      "des": "添加公会钥匙",
+      "param1": "钥匙数量",
+      "param2": null
+    },
+    {
+      "name": 13,
+      "code": "gm_changeStage",
+      "des": "改变段位",
+      "param1": "段位id",
+      "param2": null
+    },
+    {
+      "name": 14,
+      "code": "gm_getAllTeji",
+      "des": "获取所有特技",
+      "param1": null,
+      "param2": null
+    },
+    {
+      "name": 15,
+      "code": "gm_getAllGoods",
+      "des": "获取所有物品",
+      "param1": null,
+      "param2": null
+    }
+  ]
+}

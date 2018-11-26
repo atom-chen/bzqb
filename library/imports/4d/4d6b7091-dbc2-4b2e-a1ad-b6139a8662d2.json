@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "crystalShop",
+    "texture": "8e3e0b1a-c7ee-42c2-a210-a837abcc0c96",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      187,
+      203
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      187,
+      203
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

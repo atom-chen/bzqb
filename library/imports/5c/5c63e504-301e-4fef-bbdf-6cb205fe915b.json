@@ -1,0 +1,4744 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "buff_buff",
+  "_objFlags": 0,
+  "_native": "",
+  "json": [
+    {
+      "buff_id": 110011,
+      "name": "追踪",
+      "aims": 1,
+      "probability": 10000,
+      "effect_range": 150,
+      "damage": [
+        {
+          "level": 1,
+          "dmg": 33
+        },
+        {
+          "level": 2,
+          "dmg": 40
+        },
+        {
+          "level": 3,
+          "dmg": 46
+        },
+        {
+          "level": 4,
+          "dmg": 53
+        },
+        {
+          "level": 5,
+          "dmg": 59
+        },
+        {
+          "level": 6,
+          "dmg": 65
+        },
+        {
+          "level": 7,
+          "dmg": 73
+        },
+        {
+          "level": 8,
+          "dmg": 80
+        },
+        {
+          "level": 9,
+          "dmg": 87
+        },
+        {
+          "level": 10,
+          "dmg": 93
+        },
+        {
+          "level": 11,
+          "dmg": 100
+        },
+        {
+          "level": 12,
+          "dmg": 106
+        },
+        {
+          "level": 13,
+          "dmg": 114
+        },
+        {
+          "level": 14,
+          "dmg": 121
+        },
+        {
+          "level": 15,
+          "dmg": 127
+        },
+        {
+          "level": 16,
+          "dmg": 134
+        },
+        {
+          "level": 17,
+          "dmg": 140
+        },
+        {
+          "level": 18,
+          "dmg": 146
+        },
+        {
+          "level": 19,
+          "dmg": 152
+        },
+        {
+          "level": 20,
+          "dmg": 159
+        },
+        {
+          "level": 21,
+          "dmg": 167
+        },
+        {
+          "level": 22,
+          "dmg": 176
+        },
+        {
+          "level": 23,
+          "dmg": 185
+        },
+        {
+          "level": 24,
+          "dmg": 194
+        },
+        {
+          "level": 25,
+          "dmg": 201
+        },
+        {
+          "level": 26,
+          "dmg": 213
+        },
+        {
+          "level": 27,
+          "dmg": 222
+        },
+        {
+          "level": 28,
+          "dmg": 231
+        },
+        {
+          "level": 29,
+          "dmg": 240
+        },
+        {
+          "level": 30,
+          "dmg": 252
+        },
+        {
+          "level": 31,
+          "dmg": 261
+        },
+        {
+          "level": 32,
+          "dmg": 273
+        },
+        {
+          "level": 33,
+          "dmg": 282
+        },
+        {
+          "level": 34,
+          "dmg": 294
+        },
+        {
+          "level": 35,
+          "dmg": 303
+        },
+        {
+          "level": 36,
+          "dmg": 315
+        },
+        {
+          "level": 37,
+          "dmg": 327
+        },
+        {
+          "level": 38,
+          "dmg": 339
+        },
+        {
+          "level": 39,
+          "dmg": 350
+        },
+        {
+          "level": 40,
+          "dmg": 360
+        },
+        {
+          "level": 41,
+          "dmg": 372
+        },
+        {
+          "level": 42,
+          "dmg": 384
+        },
+        {
+          "level": 43,
+          "dmg": 396
+        },
+        {
+          "level": 44,
+          "dmg": 408
+        },
+        {
+          "level": 45,
+          "dmg": 420
+        },
+        {
+          "level": 46,
+          "dmg": 436
+        },
+        {
+          "level": 47,
+          "dmg": 448
+        },
+        {
+          "level": 48,
+          "dmg": 460
+        },
+        {
+          "level": 49,
+          "dmg": 472
+        },
+        {
+          "level": 50,
+          "dmg": 488
+        },
+        {
+          "level": 51,
+          "dmg": 500
+        },
+        {
+          "level": 52,
+          "dmg": 515
+        },
+        {
+          "level": 53,
+          "dmg": 520
+        },
+        {
+          "level": 54,
+          "dmg": 540
+        },
+        {
+          "level": 55,
+          "dmg": 550
+        },
+        {
+          "level": 56,
+          "dmg": 570
+        },
+        {
+          "level": 57,
+          "dmg": 585
+        },
+        {
+          "level": 58,
+          "dmg": 600
+        },
+        {
+          "level": 59,
+          "dmg": 610
+        },
+        {
+          "level": 60,
+          "dmg": 620
+        }
+      ],
+      "damage_percentage": null,
+      "damage_everytime": null,
+      "health": null,
+      "max_health": null,
+      "blood_damage": null,
+      "shield": null,
+      "avoid_ball": null,
+      "avoid_shells": null,
+      "invincible": null,
+      "reply_actionvalue": null,
+      "crit_rate": null,
+      "additional_action": null,
+      "weak": null,
+      "continuous_round": null,
+      "freeze_round": null,
+      "avoid_buff": null
+    },
+    {
+      "buff_id": 110021,
+      "name": "灼烧",
+      "aims": 3,
+      "probability": 10000,
+      "effect_range": null,
+      "damage": null,
+      "damage_percentage": null,
+      "damage_everytime": [
+        {
+          "level": 1,
+          "dmg": 26
+        },
+        {
+          "level": 2,
+          "dmg": 31
+        },
+        {
+          "level": 3,
+          "dmg": 37
+        },
+        {
+          "level": 4,
+          "dmg": 42
+        },
+        {
+          "level": 5,
+          "dmg": 47
+        },
+        {
+          "level": 6,
+          "dmg": 52
+        },
+        {
+          "level": 7,
+          "dmg": 58
+        },
+        {
+          "level": 8,
+          "dmg": 64
+        },
+        {
+          "level": 9,
+          "dmg": 69
+        },
+        {
+          "level": 10,
+          "dmg": 74
+        },
+        {
+          "level": 11,
+          "dmg": 80
+        },
+        {
+          "level": 12,
+          "dmg": 85
+        },
+        {
+          "level": 13,
+          "dmg": 90
+        },
+        {
+          "level": 14,
+          "dmg": 96
+        },
+        {
+          "level": 15,
+          "dmg": 101
+        },
+        {
+          "level": 16,
+          "dmg": 106
+        },
+        {
+          "level": 17,
+          "dmg": 111
+        },
+        {
+          "level": 18,
+          "dmg": 116
+        },
+        {
+          "level": 19,
+          "dmg": 121
+        },
+        {
+          "level": 20,
+          "dmg": 127
+        },
+        {
+          "level": 21,
+          "dmg": 133
+        },
+        {
+          "level": 22,
+          "dmg": 140
+        },
+        {
+          "level": 23,
+          "dmg": 147
+        },
+        {
+          "level": 24,
+          "dmg": 154
+        },
+        {
+          "level": 25,
+          "dmg": 162
+        },
+        {
+          "level": 26,
+          "dmg": 169
+        },
+        {
+          "level": 27,
+          "dmg": 177
+        },
+        {
+          "level": 28,
+          "dmg": 185
+        },
+        {
+          "level": 29,
+          "dmg": 192
+        },
+        {
+          "level": 30,
+          "dmg": 200
+        },
+        {
+          "level": 31,
+          "dmg": 207
+        },
+        {
+          "level": 32,
+          "dmg": 216
+        },
+        {
+          "level": 33,
+          "dmg": 225
+        },
+        {
+          "level": 34,
+          "dmg": 234
+        },
+        {
+          "level": 35,
+          "dmg": 240
+        },
+        {
+          "level": 36,
+          "dmg": 249
+        },
+        {
+          "level": 37,
+          "dmg": 260
+        },
+        {
+          "level": 38,
+          "dmg": 267
+        },
+        {
+          "level": 39,
+          "dmg": 279
+        },
+        {
+          "level": 40,
+          "dmg": 288
+        },
+        {
+          "level": 41,
+          "dmg": 297
+        },
+        {
+          "level": 42,
+          "dmg": 306
+        },
+        {
+          "level": 43,
+          "dmg": 315
+        },
+        {
+          "level": 44,
+          "dmg": 324
+        },
+        {
+          "level": 45,
+          "dmg": 336
+        },
+        {
+          "level": 46,
+          "dmg": 345
+        },
+        {
+          "level": 47,
+          "dmg": 354
+        },
+        {
+          "level": 48,
+          "dmg": 366
+        },
+        {
+          "level": 49,
+          "dmg": 375
+        },
+        {
+          "level": 50,
+          "dmg": 387
+        },
+        {
+          "level": 51,
+          "dmg": 399
+        },
+        {
+          "level": 52,
+          "dmg": 408
+        },
+        {
+          "level": 53,
+          "dmg": 420
+        },
+        {
+          "level": 54,
+          "dmg": 428
+        },
+        {
+          "level": 55,
+          "dmg": 440
+        },
+        {
+          "level": 56,
+          "dmg": 452
+        },
+        {
+          "level": 57,
+          "dmg": 464
+        },
+        {
+          "level": 58,
+          "dmg": 476
+        },
+        {
+          "level": 59,
+          "dmg": 488
+        },
+        {
+          "level": 60,
+          "dmg": 500
+        }
+      ],
+      "health": null,
+      "max_health": null,
+      "blood_damage": null,
+      "shield": null,
+      "avoid_ball": null,
+      "avoid_shells": null,
+      "invincible": null,
+      "reply_actionvalue": null,
+      "crit_rate": null,
+      "additional_action": null,
+      "weak": null,
+      "continuous_round": 2,
+      "freeze_round": null,
+      "avoid_buff": null
+    },
+    {
+      "buff_id": 110031,
+      "name": "咆哮",
+      "aims": 2,
+      "probability": 10000,
+      "effect_range": null,
+      "damage": [
+        {
+          "level": 1,
+          "dmg": 33
+        },
+        {
+          "level": 2,
+          "dmg": 40
+        },
+        {
+          "level": 3,
+          "dmg": 47
+        },
+        {
+          "level": 4,
+          "dmg": 54
+        },
+        {
+          "level": 5,
+          "dmg": 61
+        },
+        {
+          "level": 6,
+          "dmg": 67
+        },
+        {
+          "level": 7,
+          "dmg": 74
+        },
+        {
+          "level": 8,
+          "dmg": 82
+        },
+        {
+          "level": 9,
+          "dmg": 89
+        },
+        {
+          "level": 10,
+          "dmg": 96
+        },
+        {
+          "level": 11,
+          "dmg": 102
+        },
+        {
+          "level": 12,
+          "dmg": 109
+        },
+        {
+          "level": 13,
+          "dmg": 116
+        },
+        {
+          "level": 14,
+          "dmg": 123
+        },
+        {
+          "level": 15,
+          "dmg": 130
+        },
+        {
+          "level": 16,
+          "dmg": 137
+        },
+        {
+          "level": 17,
+          "dmg": 143
+        },
+        {
+          "level": 18,
+          "dmg": 149
+        },
+        {
+          "level": 19,
+          "dmg": 156
+        },
+        {
+          "level": 20,
+          "dmg": 163
+        },
+        {
+          "level": 21,
+          "dmg": 171
+        },
+        {
+          "level": 22,
+          "dmg": 180
+        },
+        {
+          "level": 23,
+          "dmg": 189
+        },
+        {
+          "level": 24,
+          "dmg": 198
+        },
+        {
+          "level": 25,
+          "dmg": 207
+        },
+        {
+          "level": 26,
+          "dmg": 216
+        },
+        {
+          "level": 27,
+          "dmg": 228
+        },
+        {
+          "level": 28,
+          "dmg": 237
+        },
+        {
+          "level": 29,
+          "dmg": 246
+        },
+        {
+          "level": 30,
+          "dmg": 255
+        },
+        {
+          "level": 31,
+          "dmg": 267
+        },
+        {
+          "level": 32,
+          "dmg": 279
+        },
+        {
+          "level": 33,
+          "dmg": 290
+        },
+        {
+          "level": 34,
+          "dmg": 300
+        },
+        {
+          "level": 35,
+          "dmg": 312
+        },
+        {
+          "level": 36,
+          "dmg": 321
+        },
+        {
+          "level": 37,
+          "dmg": 333
+        },
+        {
+          "level": 38,
+          "dmg": 345
+        },
+        {
+          "level": 39,
+          "dmg": 357
+        },
+        {
+          "level": 40,
+          "dmg": 370
+        },
+        {
+          "level": 41,
+          "dmg": 381
+        },
+        {
+          "level": 42,
+          "dmg": 393
+        },
+        {
+          "level": 43,
+          "dmg": 404
+        },
+        {
+          "level": 44,
+          "dmg": 420
+        },
+        {
+          "level": 45,
+          "dmg": 432
+        },
+        {
+          "level": 46,
+          "dmg": 444
+        },
+        {
+          "level": 47,
+          "dmg": 456
+        },
+        {
+          "level": 48,
+          "dmg": 468
+        },
+        {
+          "level": 49,
+          "dmg": 484
+        },
+        {
+          "level": 50,
+          "dmg": 496
+        },
+        {
+          "level": 51,
+          "dmg": 510
+        },
+        {
+          "level": 52,
+          "dmg": 520
+        },
+        {
+          "level": 53,
+          "dmg": 540
+        },
+        {
+          "level": 54,
+          "dmg": 550
+        },
+        {
+          "level": 55,
+          "dmg": 560
+        },
+        {
+          "level": 56,
+          "dmg": 580
+        },
+        {
+          "level": 57,
+          "dmg": 590
+        },
+        {
+          "level": 58,
+          "dmg": 610
+        },
+        {
+          "level": 59,
+          "dmg": 620
+        },
+        {
+          "level": 60,
+          "dmg": 640
+        }
+      ],
+      "damage_percentage": null,
+      "damage_everytime": null,
+      "health": null,
+      "max_health": null,
+      "blood_damage": null,
+      "shield": null,
+      "avoid_ball": null,
+      "avoid_shells": null,
+      "invincible": null,
+      "reply_actionvalue": null,
+      "crit_rate": null,
+      "additional_action": null,
+      "weak": null,
+      "continuous_round": null,
+      "freeze_round": null,
+      "avoid_buff": null
+    },
+    {
+      "buff_id": 110041,
+      "name": "缚足",
+      "aims": 3,
+      "probability": 3000,
+      "effect_range": null,
+      "damage": [
+        {
+          "level": 1,
+          "dmg": 22
+        },
+        {
+          "level": 2,
+          "dmg": 27
+        },
+        {
+          "level": 3,
+          "dmg": 31
+        },
+        {
+          "level": 4,
+          "dmg": 36
+        },
+        {
+          "level": 5,
+          "dmg": 40
+        },
+        {
+          "level": 6,
+          "dmg": 44
+        },
+        {
+          "level": 7,
+          "dmg": 50
+        },
+        {
+          "level": 8,
+          "dmg": 55
+        },
+        {
+          "level": 9,
+          "dmg": 59
+        },
+        {
+          "level": 10,
+          "dmg": 64
+        },
+        {
+          "level": 11,
+          "dmg": 68
+        },
+        {
+          "level": 12,
+          "dmg": 73
+        },
+        {
+          "level": 13,
+          "dmg": 77
+        },
+        {
+          "level": 14,
+          "dmg": 82
+        },
+        {
+          "level": 15,
+          "dmg": 86
+        },
+        {
+          "level": 16,
+          "dmg": 91
+        },
+        {
+          "level": 17,
+          "dmg": 95
+        },
+        {
+          "level": 18,
+          "dmg": 100
+        },
+        {
+          "level": 19,
+          "dmg": 104
+        },
+        {
+          "level": 20,
+          "dmg": 109
+        },
+        {
+          "level": 21,
+          "dmg": 114
+        },
+        {
+          "level": 22,
+          "dmg": 120
+        },
+        {
+          "level": 23,
+          "dmg": 126
+        },
+        {
+          "level": 24,
+          "dmg": 132
+        },
+        {
+          "level": 25,
+          "dmg": 139
+        },
+        {
+          "level": 26,
+          "dmg": 145
+        },
+        {
+          "level": 27,
+          "dmg": 152
+        },
+        {
+          "level": 28,
+          "dmg": 158
+        },
+        {
+          "level": 29,
+          "dmg": 165
+        },
+        {
+          "level": 30,
+          "dmg": 172
+        },
+        {
+          "level": 31,
+          "dmg": 179
+        },
+        {
+          "level": 32,
+          "dmg": 186
+        },
+        {
+          "level": 33,
+          "dmg": 193
+        },
+        {
+          "level": 34,
+          "dmg": 200
+        },
+        {
+          "level": 35,
+          "dmg": 207
+        },
+        {
+          "level": 36,
+          "dmg": 213
+        },
+        {
+          "level": 37,
+          "dmg": 222
+        },
+        {
+          "level": 38,
+          "dmg": 231
+        },
+        {
+          "level": 39,
+          "dmg": 237
+        },
+        {
+          "level": 40,
+          "dmg": 246
+        },
+        {
+          "level": 41,
+          "dmg": 252
+        },
+        {
+          "level": 42,
+          "dmg": 261
+        },
+        {
+          "level": 43,
+          "dmg": 270
+        },
+        {
+          "level": 44,
+          "dmg": 280
+        },
+        {
+          "level": 45,
+          "dmg": 288
+        },
+        {
+          "level": 46,
+          "dmg": 297
+        },
+        {
+          "level": 47,
+          "dmg": 303
+        },
+        {
+          "level": 48,
+          "dmg": 312
+        },
+        {
+          "level": 49,
+          "dmg": 321
+        },
+        {
+          "level": 50,
+          "dmg": 330
+        },
+        {
+          "level": 51,
+          "dmg": 342
+        },
+        {
+          "level": 52,
+          "dmg": 351
+        },
+        {
+          "level": 53,
+          "dmg": 360
+        },
+        {
+          "level": 54,
+          "dmg": 370
+        },
+        {
+          "level": 55,
+          "dmg": 378
+        },
+        {
+          "level": 56,
+          "dmg": 387
+        },
+        {
+          "level": 57,
+          "dmg": 399
+        },
+        {
+          "level": 58,
+          "dmg": 408
+        },
+        {
+          "level": 59,
+          "dmg": 416
+        },
+        {
+          "level": 60,
+          "dmg": 428
+        }
+      ],
+      "damage_percentage": null,
+      "damage_everytime": null,
+      "health": null,
+      "max_health": null,
+      "blood_damage": null,
+      "shield": null,
+      "avoid_ball": null,
+      "avoid_shells": null,
+      "invincible": null,
+      "reply_actionvalue": null,
+      "crit_rate": null,
+      "additional_action": null,
+      "weak": null,
+      "continuous_round": 1,
+      "freeze_round": null,
+      "avoid_buff": null
+    },
+    {
+      "buff_id": 110051,
+      "name": "驱散",
+      "aims": 1,
+      "probability": 10000,
+      "effect_range": null,
+      "damage": [
+        {
+          "level": 1,
+          "dmg": 44
+        },
+        {
+          "level": 2,
+          "dmg": 53
+        },
+        {
+          "level": 3,
+          "dmg": 63
+        },
+        {
+          "level": 4,
+          "dmg": 72
+        },
+        {
+          "level": 5,
+          "dmg": 81
+        },
+        {
+          "level": 6,
+          "dmg": 89
+        },
+        {
+          "level": 7,
+          "dmg": 100
+        },
+        {
+          "level": 8,
+          "dmg": 109
+        },
+        {
+          "level": 9,
+          "dmg": 118
+        },
+        {
+          "level": 10,
+          "dmg": 128
+        },
+        {
+          "level": 11,
+          "dmg": 136
+        },
+        {
+          "level": 12,
+          "dmg": 145
+        },
+        {
+          "level": 13,
+          "dmg": 155
+        },
+        {
+          "level": 14,
+          "dmg": 164
+        },
+        {
+          "level": 15,
+          "dmg": 173
+        },
+        {
+          "level": 16,
+          "dmg": 182
+        },
+        {
+          "level": 17,
+          "dmg": 191
+        },
+        {
+          "level": 18,
+          "dmg": 199
+        },
+        {
+          "level": 19,
+          "dmg": 207
+        },
+        {
+          "level": 20,
+          "dmg": 216
+        },
+        {
+          "level": 21,
+          "dmg": 228
+        },
+        {
+          "level": 22,
+          "dmg": 240
+        },
+        {
+          "level": 23,
+          "dmg": 252
+        },
+        {
+          "level": 24,
+          "dmg": 264
+        },
+        {
+          "level": 25,
+          "dmg": 276
+        },
+        {
+          "level": 26,
+          "dmg": 290
+        },
+        {
+          "level": 27,
+          "dmg": 303
+        },
+        {
+          "level": 28,
+          "dmg": 315
+        },
+        {
+          "level": 29,
+          "dmg": 330
+        },
+        {
+          "level": 30,
+          "dmg": 342
+        },
+        {
+          "level": 31,
+          "dmg": 357
+        },
+        {
+          "level": 32,
+          "dmg": 372
+        },
+        {
+          "level": 33,
+          "dmg": 384
+        },
+        {
+          "level": 34,
+          "dmg": 400
+        },
+        {
+          "level": 35,
+          "dmg": 416
+        },
+        {
+          "level": 36,
+          "dmg": 428
+        },
+        {
+          "level": 37,
+          "dmg": 444
+        },
+        {
+          "level": 38,
+          "dmg": 460
+        },
+        {
+          "level": 39,
+          "dmg": 476
+        },
+        {
+          "level": 40,
+          "dmg": 492
+        },
+        {
+          "level": 41,
+          "dmg": 500
+        },
+        {
+          "level": 42,
+          "dmg": 525
+        },
+        {
+          "level": 43,
+          "dmg": 540
+        },
+        {
+          "level": 44,
+          "dmg": 550
+        },
+        {
+          "level": 45,
+          "dmg": 570
+        },
+        {
+          "level": 46,
+          "dmg": 590
+        },
+        {
+          "level": 47,
+          "dmg": 610
+        },
+        {
+          "level": 48,
+          "dmg": 620
+        },
+        {
+          "level": 49,
+          "dmg": 640
+        },
+        {
+          "level": 50,
+          "dmg": 665
+        },
+        {
+          "level": 51,
+          "dmg": 680
+        },
+        {
+          "level": 52,
+          "dmg": 700
+        },
+        {
+          "level": 53,
+          "dmg": 720
+        },
+        {
+          "level": 54,
+          "dmg": 730
+        },
+        {
+          "level": 55,
+          "dmg": 750
+        },
+        {
+          "level": 56,
+          "dmg": 770
+        },
+        {
+          "level": 57,
+          "dmg": 790
+        },
+        {
+          "level": 58,
+          "dmg": 810
+        },
+        {
+          "level": 59,
+          "dmg": 830
+        },
+        {
+          "level": 60,
+          "dmg": 850
+        }
+      ],
+      "damage_percentage": null,
+      "damage_everytime": null,
+      "health": null,
+      "max_health": null,
+      "blood_damage": null,
+      "shield": null,
+      "avoid_ball": null,
+      "avoid_shells": null,
+      "invincible": null,
+      "reply_actionvalue": null,
+      "crit_rate": null,
+      "additional_action": null,
+      "weak": null,
+      "continuous_round": null,
+      "freeze_round": null,
+      "avoid_buff": null
+    },
+    {
+      "buff_id": 110071,
+      "name": "钙片",
+      "aims": 2,
+      "probability": 10000,
+      "effect_range": null,
+      "damage": null,
+      "damage_percentage": null,
+      "damage_everytime": null,
+      "health": null,
+      "max_health": null,
+      "blood_damage": null,
+      "shield": [
+        {
+          "level": 1,
+          "shield": 45
+        },
+        {
+          "level": 2,
+          "shield": 55
+        },
+        {
+          "level": 3,
+          "shield": 66
+        },
+        {
+          "level": 4,
+          "shield": 75
+        },
+        {
+          "level": 5,
+          "shield": 85
+        },
+        {
+          "level": 6,
+          "shield": 95
+        },
+        {
+          "level": 7,
+          "shield": 106
+        },
+        {
+          "level": 8,
+          "shield": 116
+        },
+        {
+          "level": 9,
+          "shield": 127
+        },
+        {
+          "level": 10,
+          "shield": 137
+        },
+        {
+          "level": 11,
+          "shield": 146
+        },
+        {
+          "level": 12,
+          "shield": 157
+        },
+        {
+          "level": 13,
+          "shield": 167
+        },
+        {
+          "level": 14,
+          "shield": 178
+        },
+        {
+          "level": 15,
+          "shield": 186
+        },
+        {
+          "level": 16,
+          "shield": 196
+        },
+        {
+          "level": 17,
+          "shield": 204
+        },
+        {
+          "level": 18,
+          "shield": 213
+        },
+        {
+          "level": 19,
+          "shield": 228
+        },
+        {
+          "level": 20,
+          "shield": 240
+        },
+        {
+          "level": 21,
+          "shield": 255
+        },
+        {
+          "level": 22,
+          "shield": 267
+        },
+        {
+          "level": 23,
+          "shield": 282
+        },
+        {
+          "level": 24,
+          "shield": 294
+        },
+        {
+          "level": 25,
+          "shield": 309
+        },
+        {
+          "level": 26,
+          "shield": 324
+        },
+        {
+          "level": 27,
+          "shield": 351
+        },
+        {
+          "level": 28,
+          "shield": 366
+        },
+        {
+          "level": 29,
+          "shield": 381
+        },
+        {
+          "level": 30,
+          "shield": 400
+        },
+        {
+          "level": 31,
+          "shield": 416
+        },
+        {
+          "level": 32,
+          "shield": 432
+        },
+        {
+          "level": 33,
+          "shield": 450
+        },
+        {
+          "level": 34,
+          "shield": 472
+        },
+        {
+          "level": 35,
+          "shield": 488
+        },
+        {
+          "level": 36,
+          "shield": 510
+        },
+        {
+          "level": 37,
+          "shield": 530
+        },
+        {
+          "level": 38,
+          "shield": 550
+        },
+        {
+          "level": 39,
+          "shield": 570
+        },
+        {
+          "level": 40,
+          "shield": 590
+        },
+        {
+          "level": 41,
+          "shield": 610
+        },
+        {
+          "level": 42,
+          "shield": 620
+        },
+        {
+          "level": 43,
+          "shield": 650
+        },
+        {
+          "level": 44,
+          "shield": 670
+        },
+        {
+          "level": 45,
+          "shield": 690
+        },
+        {
+          "level": 46,
+          "shield": 710
+        },
+        {
+          "level": 47,
+          "shield": 730
+        },
+        {
+          "level": 48,
+          "shield": 750
+        },
+        {
+          "level": 49,
+          "shield": 770
+        },
+        {
+          "level": 50,
+          "shield": 800
+        },
+        {
+          "level": 51,
+          "shield": 820
+        },
+        {
+          "level": 52,
+          "shield": 840
+        },
+        {
+          "level": 53,
+          "shield": 860
+        },
+        {
+          "level": 54,
+          "shield": 890
+        }
+      ],
+      "avoid_ball": 2009,
+      "avoid_shells": null,
+      "invincible": null,
+      "reply_actionvalue": null,
+      "crit_rate": null,
+      "additional_action": null,
+      "weak": null,
+      "continuous_round": null,
+      "freeze_round": null,
+      "avoid_buff": null
+    },
+    {
+      "buff_id": 110091,
+      "name": "魔法斗篷",
+      "aims": 2,
+      "probability": 10000,
+      "effect_range": null,
+      "damage": null,
+      "damage_percentage": null,
+      "damage_everytime": null,
+      "health": null,
+      "max_health": null,
+      "blood_damage": null,
+      "shield": [
+        {
+          "level": 1,
+          "shield": 36
+        },
+        {
+          "level": 2,
+          "shield": 44
+        },
+        {
+          "level": 3,
+          "shield": 53
+        },
+        {
+          "level": 4,
+          "shield": 60
+        },
+        {
+          "level": 5,
+          "shield": 68
+        },
+        {
+          "level": 6,
+          "shield": 76
+        },
+        {
+          "level": 7,
+          "shield": 86
+        },
+        {
+          "level": 8,
+          "shield": 93
+        },
+        {
+          "level": 9,
+          "shield": 102
+        },
+        {
+          "level": 10,
+          "shield": 110
+        },
+        {
+          "level": 11,
+          "shield": 117
+        },
+        {
+          "level": 12,
+          "shield": 126
+        },
+        {
+          "level": 13,
+          "shield": 134
+        },
+        {
+          "level": 14,
+          "shield": 143
+        },
+        {
+          "level": 15,
+          "shield": 149
+        },
+        {
+          "level": 16,
+          "shield": 158
+        },
+        {
+          "level": 17,
+          "shield": 165
+        },
+        {
+          "level": 18,
+          "shield": 173
+        },
+        {
+          "level": 19,
+          "shield": 184
+        },
+        {
+          "level": 20,
+          "shield": 194
+        },
+        {
+          "level": 21,
+          "shield": 204
+        },
+        {
+          "level": 22,
+          "shield": 213
+        },
+        {
+          "level": 23,
+          "shield": 225
+        },
+        {
+          "level": 24,
+          "shield": 237
+        },
+        {
+          "level": 25,
+          "shield": 250
+        },
+        {
+          "level": 26,
+          "shield": 261
+        },
+        {
+          "level": 27,
+          "shield": 273
+        },
+        {
+          "level": 28,
+          "shield": 288
+        },
+        {
+          "level": 29,
+          "shield": 297
+        },
+        {
+          "level": 30,
+          "shield": 312
+        },
+        {
+          "level": 31,
+          "shield": 324
+        },
+        {
+          "level": 32,
+          "shield": 336
+        },
+        {
+          "level": 33,
+          "shield": 351
+        },
+        {
+          "level": 34,
+          "shield": 366
+        },
+        {
+          "level": 35,
+          "shield": 378
+        },
+        {
+          "level": 36,
+          "shield": 393
+        },
+        {
+          "level": 37,
+          "shield": 408
+        },
+        {
+          "level": 38,
+          "shield": 420
+        },
+        {
+          "level": 39,
+          "shield": 436
+        },
+        {
+          "level": 40,
+          "shield": 452
+        },
+        {
+          "level": 41,
+          "shield": 468
+        },
+        {
+          "level": 42,
+          "shield": 480
+        },
+        {
+          "level": 43,
+          "shield": 496
+        },
+        {
+          "level": 44,
+          "shield": 510
+        },
+        {
+          "level": 45,
+          "shield": 530
+        },
+        {
+          "level": 46,
+          "shield": 540
+        },
+        {
+          "level": 47,
+          "shield": 560
+        },
+        {
+          "level": 48,
+          "shield": 580
+        },
+        {
+          "level": 49,
+          "shield": 590
+        },
+        {
+          "level": 50,
+          "shield": 615
+        },
+        {
+          "level": 51,
+          "shield": 630
+        },
+        {
+          "level": 52,
+          "shield": 640
+        },
+        {
+          "level": 53,
+          "shield": 665
+        },
+        {
+          "level": 54,
+          "shield": 680
+        }
+      ],
+      "avoid_ball": null,
+      "avoid_shells": null,
+      "invincible": null,
+      "reply_actionvalue": null,
+      "crit_rate": null,
+      "additional_action": null,
+      "weak": null,
+      "continuous_round": 1,
+      "freeze_round": null,
+      "avoid_buff": null
+    },
+    {
+      "buff_id": 110101,
+      "name": "虚弱胶囊",
+      "aims": 3,
+      "probability": 10000,
+      "effect_range": null,
+      "damage": [
+        {
+          "level": 1,
+          "dmg": 57
+        },
+        {
+          "level": 2,
+          "dmg": 69
+        },
+        {
+          "level": 3,
+          "dmg": 83
+        },
+        {
+          "level": 4,
+          "dmg": 94
+        },
+        {
+          "level": 5,
+          "dmg": 106
+        },
+        {
+          "level": 6,
+          "dmg": 118
+        },
+        {
+          "level": 7,
+          "dmg": 133
+        },
+        {
+          "level": 8,
+          "dmg": 145
+        },
+        {
+          "level": 9,
+          "dmg": 158
+        },
+        {
+          "level": 10,
+          "dmg": 172
+        },
+        {
+          "level": 11,
+          "dmg": 183
+        },
+        {
+          "level": 12,
+          "dmg": 197
+        },
+        {
+          "level": 13,
+          "dmg": 207
+        },
+        {
+          "level": 14,
+          "dmg": 222
+        },
+        {
+          "level": 15,
+          "dmg": 231
+        },
+        {
+          "level": 16,
+          "dmg": 243
+        },
+        {
+          "level": 17,
+          "dmg": 255
+        },
+        {
+          "level": 18,
+          "dmg": 267
+        },
+        {
+          "level": 19,
+          "dmg": 285
+        },
+        {
+          "level": 20,
+          "dmg": 300
+        },
+        {
+          "level": 21,
+          "dmg": 318
+        },
+        {
+          "level": 22,
+          "dmg": 333
+        },
+        {
+          "level": 23,
+          "dmg": 354
+        },
+        {
+          "level": 24,
+          "dmg": 370
+        },
+        {
+          "level": 25,
+          "dmg": 387
+        },
+        {
+          "level": 26,
+          "dmg": 404
+        },
+        {
+          "level": 27,
+          "dmg": 424
+        },
+        {
+          "level": 28,
+          "dmg": 444
+        },
+        {
+          "level": 29,
+          "dmg": 464
+        },
+        {
+          "level": 30,
+          "dmg": 484
+        },
+        {
+          "level": 31,
+          "dmg": 505
+        },
+        {
+          "level": 32,
+          "dmg": 520
+        },
+        {
+          "level": 33,
+          "dmg": 545
+        },
+        {
+          "level": 34,
+          "dmg": 560
+        },
+        {
+          "level": 35,
+          "dmg": 580
+        },
+        {
+          "level": 36,
+          "dmg": 610
+        },
+        {
+          "level": 37,
+          "dmg": 630
+        },
+        {
+          "level": 38,
+          "dmg": 650
+        },
+        {
+          "level": 39,
+          "dmg": 680
+        },
+        {
+          "level": 40,
+          "dmg": 700
+        },
+        {
+          "level": 41,
+          "dmg": 720
+        },
+        {
+          "level": 42,
+          "dmg": 750
+        },
+        {
+          "level": 43,
+          "dmg": 775
+        },
+        {
+          "level": 44,
+          "dmg": 790
+        },
+        {
+          "level": 45,
+          "dmg": 825
+        },
+        {
+          "level": 46,
+          "dmg": 850
+        },
+        {
+          "level": 47,
+          "dmg": 870
+        },
+        {
+          "level": 48,
+          "dmg": 900
+        },
+        {
+          "level": 49,
+          "dmg": 920
+        },
+        {
+          "level": 50,
+          "dmg": 950
+        },
+        {
+          "level": 51,
+          "dmg": 980
+        },
+        {
+          "level": 52,
+          "dmg": 1010
+        },
+        {
+          "level": 53,
+          "dmg": 1035
+        },
+        {
+          "level": 54,
+          "dmg": 1065
+        }
+      ],
+      "damage_percentage": null,
+      "damage_everytime": null,
+      "health": null,
+      "max_health": null,
+      "blood_damage": null,
+      "shield": null,
+      "avoid_ball": null,
+      "avoid_shells": null,
+      "invincible": null,
+      "reply_actionvalue": null,
+      "crit_rate": null,
+      "additional_action": null,
+      "weak": 50,
+      "continuous_round": 1,
+      "freeze_round": null,
+      "avoid_buff": null
+    },
+    {
+      "buff_id": 110111,
+      "name": "烤翅",
+      "aims": 2,
+      "probability": 10000,
+      "effect_range": null,
+      "damage": [
+        {
+          "level": 1,
+          "dmg": 47
+        },
+        {
+          "level": 2,
+          "dmg": 57
+        },
+        {
+          "level": 3,
+          "dmg": 70
+        },
+        {
+          "level": 4,
+          "dmg": 82
+        },
+        {
+          "level": 5,
+          "dmg": 93
+        },
+        {
+          "level": 6,
+          "dmg": 106
+        },
+        {
+          "level": 7,
+          "dmg": 119
+        },
+        {
+          "level": 8,
+          "dmg": 130
+        },
+        {
+          "level": 9,
+          "dmg": 141
+        },
+        {
+          "level": 10,
+          "dmg": 155
+        },
+        {
+          "level": 11,
+          "dmg": 166
+        },
+        {
+          "level": 12,
+          "dmg": 178
+        },
+        {
+          "level": 13,
+          "dmg": 189
+        },
+        {
+          "level": 14,
+          "dmg": 200
+        },
+        {
+          "level": 15,
+          "dmg": 210
+        },
+        {
+          "level": 16,
+          "dmg": 228
+        },
+        {
+          "level": 17,
+          "dmg": 240
+        },
+        {
+          "level": 18,
+          "dmg": 258
+        },
+        {
+          "level": 19,
+          "dmg": 273
+        },
+        {
+          "level": 20,
+          "dmg": 290
+        },
+        {
+          "level": 21,
+          "dmg": 309
+        },
+        {
+          "level": 22,
+          "dmg": 327
+        },
+        {
+          "level": 23,
+          "dmg": 342
+        },
+        {
+          "level": 24,
+          "dmg": 363
+        },
+        {
+          "level": 25,
+          "dmg": 381
+        },
+        {
+          "level": 26,
+          "dmg": 400
+        },
+        {
+          "level": 27,
+          "dmg": 416
+        },
+        {
+          "level": 28,
+          "dmg": 440
+        },
+        {
+          "level": 29,
+          "dmg": 460
+        },
+        {
+          "level": 30,
+          "dmg": 480
+        },
+        {
+          "level": 31,
+          "dmg": 500
+        },
+        {
+          "level": 32,
+          "dmg": 520
+        },
+        {
+          "level": 33,
+          "dmg": 540
+        },
+        {
+          "level": 34,
+          "dmg": 560
+        },
+        {
+          "level": 35,
+          "dmg": 580
+        },
+        {
+          "level": 36,
+          "dmg": 610
+        },
+        {
+          "level": 37,
+          "dmg": 630
+        },
+        {
+          "level": 38,
+          "dmg": 650
+        },
+        {
+          "level": 39,
+          "dmg": 685
+        },
+        {
+          "level": 40,
+          "dmg": 710
+        },
+        {
+          "level": 41,
+          "dmg": 730
+        },
+        {
+          "level": 42,
+          "dmg": 760
+        },
+        {
+          "level": 43,
+          "dmg": 780
+        },
+        {
+          "level": 44,
+          "dmg": 810
+        },
+        {
+          "level": 45,
+          "dmg": 830
+        }
+      ],
+      "damage_percentage": null,
+      "damage_everytime": null,
+      "health": null,
+      "max_health": null,
+      "blood_damage": null,
+      "shield": null,
+      "avoid_ball": null,
+      "avoid_shells": null,
+      "invincible": null,
+      "reply_actionvalue": 50,
+      "crit_rate": null,
+      "additional_action": null,
+      "weak": null,
+      "continuous_round": null,
+      "freeze_round": null,
+      "avoid_buff": null
+    },
+    {
+      "buff_id": 110121,
+      "name": "忍耐",
+      "aims": 2,
+      "probability": 10000,
+      "effect_range": null,
+      "damage": null,
+      "damage_percentage": 3000,
+      "damage_everytime": null,
+      "health": null,
+      "max_health": null,
+      "blood_damage": null,
+      "shield": null,
+      "avoid_ball": null,
+      "avoid_shells": null,
+      "invincible": null,
+      "reply_actionvalue": null,
+      "crit_rate": null,
+      "additional_action": null,
+      "weak": null,
+      "continuous_round": 1,
+      "freeze_round": null,
+      "avoid_buff": null
+    },
+    {
+      "buff_id": 110131,
+      "name": "搓澡巾",
+      "aims": 3,
+      "probability": 10000,
+      "effect_range": null,
+      "damage": null,
+      "damage_percentage": null,
+      "damage_everytime": null,
+      "health": null,
+      "max_health": null,
+      "blood_damage": null,
+      "shield": null,
+      "avoid_ball": null,
+      "avoid_shells": null,
+      "invincible": null,
+      "reply_actionvalue": null,
+      "crit_rate": null,
+      "additional_action": null,
+      "weak": null,
+      "continuous_round": null,
+      "freeze_round": null,
+      "avoid_buff": 1
+    },
+    {
+      "buff_id": 110141,
+      "name": "赐福",
+      "aims": 2,
+      "probability": 10000,
+      "effect_range": null,
+      "damage": null,
+      "damage_percentage": null,
+      "damage_everytime": null,
+      "health": null,
+      "max_health": null,
+      "blood_damage": null,
+      "shield": [
+        {
+          "level": 1,
+          "shield": 40
+        },
+        {
+          "level": 2,
+          "shield": 49
+        },
+        {
+          "level": 3,
+          "shield": 60
+        },
+        {
+          "level": 4,
+          "shield": 70
+        },
+        {
+          "level": 5,
+          "shield": 80
+        },
+        {
+          "level": 6,
+          "shield": 91
+        },
+        {
+          "level": 7,
+          "shield": 102
+        },
+        {
+          "level": 8,
+          "shield": 111
+        },
+        {
+          "level": 9,
+          "shield": 121
+        },
+        {
+          "level": 10,
+          "shield": 133
+        },
+        {
+          "level": 11,
+          "shield": 142
+        },
+        {
+          "level": 12,
+          "shield": 152
+        },
+        {
+          "level": 13,
+          "shield": 162
+        },
+        {
+          "level": 14,
+          "shield": 171
+        },
+        {
+          "level": 15,
+          "shield": 181
+        },
+        {
+          "level": 16,
+          "shield": 195
+        },
+        {
+          "level": 17,
+          "shield": 207
+        },
+        {
+          "level": 18,
+          "shield": 220
+        },
+        {
+          "level": 19,
+          "shield": 234
+        },
+        {
+          "level": 20,
+          "shield": 249
+        },
+        {
+          "level": 21,
+          "shield": 264
+        },
+        {
+          "level": 22,
+          "shield": 280
+        },
+        {
+          "level": 23,
+          "shield": 294
+        },
+        {
+          "level": 24,
+          "shield": 309
+        },
+        {
+          "level": 25,
+          "shield": 327
+        },
+        {
+          "level": 26,
+          "shield": 342
+        },
+        {
+          "level": 27,
+          "shield": 360
+        },
+        {
+          "level": 28,
+          "shield": 378
+        },
+        {
+          "level": 29,
+          "shield": 393
+        },
+        {
+          "level": 30,
+          "shield": 412
+        },
+        {
+          "level": 31,
+          "shield": 428
+        },
+        {
+          "level": 32,
+          "shield": 448
+        },
+        {
+          "level": 33,
+          "shield": 468
+        },
+        {
+          "level": 34,
+          "shield": 488
+        },
+        {
+          "level": 35,
+          "shield": 505
+        },
+        {
+          "level": 36,
+          "shield": 525
+        },
+        {
+          "level": 37,
+          "shield": 540
+        },
+        {
+          "level": 38,
+          "shield": 560
+        },
+        {
+          "level": 39,
+          "shield": 580
+        },
+        {
+          "level": 40,
+          "shield": 600
+        },
+        {
+          "level": 41,
+          "shield": 620
+        },
+        {
+          "level": 42,
+          "shield": 650
+        },
+        {
+          "level": 43,
+          "shield": 670
+        },
+        {
+          "level": 44,
+          "shield": 690
+        },
+        {
+          "level": 45,
+          "shield": 710
+        }
+      ],
+      "avoid_ball": null,
+      "avoid_shells": 1,
+      "invincible": null,
+      "reply_actionvalue": null,
+      "crit_rate": null,
+      "additional_action": null,
+      "weak": null,
+      "continuous_round": 1,
+      "freeze_round": null,
+      "avoid_buff": null
+    },
+    {
+      "buff_id": 110171,
+      "name": "自爆手雷",
+      "aims": 4,
+      "probability": 10000,
+      "effect_range": null,
+      "damage": [
+        {
+          "level": 1,
+          "dmg": 81
+        },
+        {
+          "level": 2,
+          "dmg": 101
+        },
+        {
+          "level": 3,
+          "dmg": 123
+        },
+        {
+          "level": 4,
+          "dmg": 144
+        },
+        {
+          "level": 5,
+          "dmg": 163
+        },
+        {
+          "level": 6,
+          "dmg": 186
+        },
+        {
+          "level": 7,
+          "dmg": 207
+        },
+        {
+          "level": 8,
+          "dmg": 225
+        },
+        {
+          "level": 9,
+          "dmg": 246
+        },
+        {
+          "level": 10,
+          "dmg": 270
+        },
+        {
+          "level": 11,
+          "dmg": 290
+        },
+        {
+          "level": 12,
+          "dmg": 309
+        },
+        {
+          "level": 13,
+          "dmg": 330
+        },
+        {
+          "level": 14,
+          "dmg": 348
+        },
+        {
+          "level": 15,
+          "dmg": 370
+        },
+        {
+          "level": 16,
+          "dmg": 396
+        },
+        {
+          "level": 17,
+          "dmg": 420
+        },
+        {
+          "level": 18,
+          "dmg": 450
+        },
+        {
+          "level": 19,
+          "dmg": 480
+        },
+        {
+          "level": 20,
+          "dmg": 500
+        },
+        {
+          "level": 21,
+          "dmg": 540
+        },
+        {
+          "level": 22,
+          "dmg": 570
+        },
+        {
+          "level": 23,
+          "dmg": 600
+        },
+        {
+          "level": 24,
+          "dmg": 635
+        },
+        {
+          "level": 25,
+          "dmg": 670
+        },
+        {
+          "level": 26,
+          "dmg": 700
+        },
+        {
+          "level": 27,
+          "dmg": 730
+        },
+        {
+          "level": 28,
+          "dmg": 770
+        },
+        {
+          "level": 29,
+          "dmg": 805
+        },
+        {
+          "level": 30,
+          "dmg": 840
+        },
+        {
+          "level": 31,
+          "dmg": 880
+        },
+        {
+          "level": 32,
+          "dmg": 910
+        },
+        {
+          "level": 33,
+          "dmg": 955
+        },
+        {
+          "level": 34,
+          "dmg": 990
+        },
+        {
+          "level": 35,
+          "dmg": 1030
+        },
+        {
+          "level": 36,
+          "dmg": 1070
+        },
+        {
+          "level": 37,
+          "dmg": 1110
+        },
+        {
+          "level": 38,
+          "dmg": 1150
+        },
+        {
+          "level": 39,
+          "dmg": 1190
+        },
+        {
+          "level": 40,
+          "dmg": 1240
+        },
+        {
+          "level": 41,
+          "dmg": 1280
+        },
+        {
+          "level": 42,
+          "dmg": 1320
+        },
+        {
+          "level": 43,
+          "dmg": 1370
+        },
+        {
+          "level": 44,
+          "dmg": 1410
+        },
+        {
+          "level": 45,
+          "dmg": 1465
+        }
+      ],
+      "damage_percentage": null,
+      "damage_everytime": null,
+      "health": 5000,
+      "max_health": null,
+      "blood_damage": null,
+      "shield": null,
+      "avoid_ball": null,
+      "avoid_shells": null,
+      "invincible": null,
+      "reply_actionvalue": null,
+      "crit_rate": null,
+      "additional_action": null,
+      "weak": null,
+      "continuous_round": null,
+      "freeze_round": null,
+      "avoid_buff": null
+    },
+    {
+      "buff_id": 110191,
+      "name": "遮阳伞",
+      "aims": 2,
+      "probability": 10000,
+      "effect_range": null,
+      "damage": null,
+      "damage_percentage": null,
+      "damage_everytime": null,
+      "health": null,
+      "max_health": null,
+      "blood_damage": null,
+      "shield": [
+        {
+          "level": 1,
+          "shield": 56
+        },
+        {
+          "level": 2,
+          "shield": 76
+        },
+        {
+          "level": 3,
+          "shield": 92
+        },
+        {
+          "level": 4,
+          "shield": 108
+        },
+        {
+          "level": 5,
+          "shield": 128
+        },
+        {
+          "level": 6,
+          "shield": 145
+        },
+        {
+          "level": 7,
+          "shield": 161
+        },
+        {
+          "level": 8,
+          "shield": 180
+        },
+        {
+          "level": 9,
+          "shield": 197
+        },
+        {
+          "level": 10,
+          "shield": 213
+        },
+        {
+          "level": 11,
+          "shield": 230
+        },
+        {
+          "level": 12,
+          "shield": 246
+        },
+        {
+          "level": 13,
+          "shield": 267
+        },
+        {
+          "level": 14,
+          "shield": 291
+        },
+        {
+          "level": 15,
+          "shield": 315
+        },
+        {
+          "level": 16,
+          "shield": 339
+        },
+        {
+          "level": 17,
+          "shield": 366
+        },
+        {
+          "level": 18,
+          "shield": 390
+        },
+        {
+          "level": 19,
+          "shield": 416
+        },
+        {
+          "level": 20,
+          "shield": 444
+        },
+        {
+          "level": 21,
+          "shield": 472
+        },
+        {
+          "level": 22,
+          "shield": 500
+        },
+        {
+          "level": 23,
+          "shield": 530
+        },
+        {
+          "level": 24,
+          "shield": 560
+        },
+        {
+          "level": 25,
+          "shield": 590
+        },
+        {
+          "level": 26,
+          "shield": 620
+        },
+        {
+          "level": 27,
+          "shield": 655
+        },
+        {
+          "level": 28,
+          "shield": 680
+        },
+        {
+          "level": 29,
+          "shield": 720
+        },
+        {
+          "level": 30,
+          "shield": 750
+        },
+        {
+          "level": 31,
+          "shield": 780
+        },
+        {
+          "level": 32,
+          "shield": 820
+        },
+        {
+          "level": 33,
+          "shield": 860
+        },
+        {
+          "level": 34,
+          "shield": 890
+        },
+        {
+          "level": 35,
+          "shield": 930
+        },
+        {
+          "level": 36,
+          "shield": 975
+        }
+      ],
+      "avoid_ball": null,
+      "avoid_shells": 2,
+      "invincible": null,
+      "reply_actionvalue": null,
+      "crit_rate": null,
+      "additional_action": null,
+      "weak": null,
+      "continuous_round": null,
+      "freeze_round": null,
+      "avoid_buff": null
+    },
+    {
+      "buff_id": 110201,
+      "name": "放大镜",
+      "aims": 2,
+      "probability": 10000,
+      "effect_range": null,
+      "damage": [
+        {
+          "level": 1,
+          "dmg": 66
+        },
+        {
+          "level": 2,
+          "dmg": 88
+        },
+        {
+          "level": 3,
+          "dmg": 107
+        },
+        {
+          "level": 4,
+          "dmg": 126
+        },
+        {
+          "level": 5,
+          "dmg": 149
+        },
+        {
+          "level": 6,
+          "dmg": 169
+        },
+        {
+          "level": 7,
+          "dmg": 188
+        },
+        {
+          "level": 8,
+          "dmg": 210
+        },
+        {
+          "level": 9,
+          "dmg": 230
+        },
+        {
+          "level": 10,
+          "dmg": 246
+        },
+        {
+          "level": 11,
+          "dmg": 267
+        },
+        {
+          "level": 12,
+          "dmg": 285
+        },
+        {
+          "level": 13,
+          "dmg": 312
+        },
+        {
+          "level": 14,
+          "dmg": 340
+        },
+        {
+          "level": 15,
+          "dmg": 366
+        },
+        {
+          "level": 16,
+          "dmg": 393
+        },
+        {
+          "level": 17,
+          "dmg": 424
+        },
+        {
+          "level": 18,
+          "dmg": 452
+        },
+        {
+          "level": 19,
+          "dmg": 484
+        },
+        {
+          "level": 20,
+          "dmg": 520
+        },
+        {
+          "level": 21,
+          "dmg": 550
+        },
+        {
+          "level": 22,
+          "dmg": 580
+        },
+        {
+          "level": 23,
+          "dmg": 620
+        },
+        {
+          "level": 24,
+          "dmg": 650
+        },
+        {
+          "level": 25,
+          "dmg": 680
+        },
+        {
+          "level": 26,
+          "dmg": 720
+        },
+        {
+          "level": 27,
+          "dmg": 760
+        },
+        {
+          "level": 28,
+          "dmg": 800
+        },
+        {
+          "level": 29,
+          "dmg": 840
+        },
+        {
+          "level": 30,
+          "dmg": 880
+        },
+        {
+          "level": 31,
+          "dmg": 920
+        },
+        {
+          "level": 32,
+          "dmg": 965
+        },
+        {
+          "level": 33,
+          "dmg": 1000
+        },
+        {
+          "level": 34,
+          "dmg": 1040
+        },
+        {
+          "level": 35,
+          "dmg": 1095
+        },
+        {
+          "level": 36,
+          "dmg": 1130
+        }
+      ],
+      "damage_percentage": null,
+      "damage_everytime": null,
+      "health": null,
+      "max_health": null,
+      "blood_damage": null,
+      "shield": null,
+      "avoid_ball": null,
+      "avoid_shells": null,
+      "invincible": null,
+      "reply_actionvalue": null,
+      "crit_rate": 10000,
+      "additional_action": null,
+      "weak": null,
+      "continuous_round": 1,
+      "freeze_round": null,
+      "avoid_buff": null
+    },
+    {
+      "buff_id": 110211,
+      "name": "唤雷鼓",
+      "aims": 2,
+      "probability": 10000,
+      "effect_range": null,
+      "damage": [
+        {
+          "level": 1,
+          "dmg": 63
+        },
+        {
+          "level": 2,
+          "dmg": 84
+        },
+        {
+          "level": 3,
+          "dmg": 102
+        },
+        {
+          "level": 4,
+          "dmg": 120
+        },
+        {
+          "level": 5,
+          "dmg": 142
+        },
+        {
+          "level": 6,
+          "dmg": 161
+        },
+        {
+          "level": 7,
+          "dmg": 179
+        },
+        {
+          "level": 8,
+          "dmg": 200
+        },
+        {
+          "level": 9,
+          "dmg": 219
+        },
+        {
+          "level": 10,
+          "dmg": 234
+        },
+        {
+          "level": 11,
+          "dmg": 255
+        },
+        {
+          "level": 12,
+          "dmg": 273
+        },
+        {
+          "level": 13,
+          "dmg": 297
+        },
+        {
+          "level": 14,
+          "dmg": 324
+        },
+        {
+          "level": 15,
+          "dmg": 350
+        },
+        {
+          "level": 16,
+          "dmg": 375
+        },
+        {
+          "level": 17,
+          "dmg": 404
+        },
+        {
+          "level": 18,
+          "dmg": 432
+        },
+        {
+          "level": 19,
+          "dmg": 460
+        },
+        {
+          "level": 20,
+          "dmg": 495
+        },
+        {
+          "level": 21,
+          "dmg": 525
+        },
+        {
+          "level": 22,
+          "dmg": 555
+        },
+        {
+          "level": 23,
+          "dmg": 590
+        },
+        {
+          "level": 24,
+          "dmg": 620
+        },
+        {
+          "level": 25,
+          "dmg": 655
+        },
+        {
+          "level": 26,
+          "dmg": 690
+        },
+        {
+          "level": 27,
+          "dmg": 720
+        },
+        {
+          "level": 28,
+          "dmg": 760
+        },
+        {
+          "level": 29,
+          "dmg": 800
+        },
+        {
+          "level": 30,
+          "dmg": 840
+        },
+        {
+          "level": 31,
+          "dmg": 870
+        },
+        {
+          "level": 32,
+          "dmg": 910
+        },
+        {
+          "level": 33,
+          "dmg": 950
+        },
+        {
+          "level": 34,
+          "dmg": 990
+        },
+        {
+          "level": 35,
+          "dmg": 1040
+        },
+        {
+          "level": 36,
+          "dmg": 1080
+        }
+      ],
+      "damage_percentage": null,
+      "damage_everytime": null,
+      "health": null,
+      "max_health": null,
+      "blood_damage": null,
+      "shield": null,
+      "avoid_ball": null,
+      "avoid_shells": null,
+      "invincible": null,
+      "reply_actionvalue": null,
+      "crit_rate": null,
+      "additional_action": null,
+      "weak": null,
+      "continuous_round": null,
+      "freeze_round": null,
+      "avoid_buff": null
+    },
+    {
+      "buff_id": 120011,
+      "name": "仙人球",
+      "aims": 1,
+      "probability": 10000,
+      "effect_range": null,
+      "damage": [
+        {
+          "level": 1,
+          "dmg": 85
+        },
+        {
+          "level": 2,
+          "dmg": 104
+        },
+        {
+          "level": 3,
+          "dmg": 123
+        },
+        {
+          "level": 4,
+          "dmg": 140
+        },
+        {
+          "level": 5,
+          "dmg": 158
+        },
+        {
+          "level": 6,
+          "dmg": 174
+        },
+        {
+          "level": 7,
+          "dmg": 194
+        },
+        {
+          "level": 8,
+          "dmg": 213
+        },
+        {
+          "level": 9,
+          "dmg": 231
+        },
+        {
+          "level": 10,
+          "dmg": 246
+        },
+        {
+          "level": 11,
+          "dmg": 264
+        },
+        {
+          "level": 12,
+          "dmg": 282
+        },
+        {
+          "level": 13,
+          "dmg": 300
+        },
+        {
+          "level": 14,
+          "dmg": 320
+        },
+        {
+          "level": 15,
+          "dmg": 336
+        },
+        {
+          "level": 16,
+          "dmg": 354
+        },
+        {
+          "level": 17,
+          "dmg": 372
+        },
+        {
+          "level": 18,
+          "dmg": 387
+        },
+        {
+          "level": 19,
+          "dmg": 404
+        },
+        {
+          "level": 20,
+          "dmg": 420
+        },
+        {
+          "level": 21,
+          "dmg": 444
+        },
+        {
+          "level": 22,
+          "dmg": 468
+        },
+        {
+          "level": 23,
+          "dmg": 488
+        },
+        {
+          "level": 24,
+          "dmg": 510
+        },
+        {
+          "level": 25,
+          "dmg": 540
+        },
+        {
+          "level": 26,
+          "dmg": 560
+        },
+        {
+          "level": 27,
+          "dmg": 590
+        },
+        {
+          "level": 28,
+          "dmg": 610
+        },
+        {
+          "level": 29,
+          "dmg": 640
+        },
+        {
+          "level": 30,
+          "dmg": 670
+        },
+        {
+          "level": 31,
+          "dmg": 690
+        },
+        {
+          "level": 32,
+          "dmg": 720
+        },
+        {
+          "level": 33,
+          "dmg": 755
+        },
+        {
+          "level": 34,
+          "dmg": 780
+        },
+        {
+          "level": 35,
+          "dmg": 810
+        },
+        {
+          "level": 36,
+          "dmg": 840
+        },
+        {
+          "level": 37,
+          "dmg": 860
+        },
+        {
+          "level": 38,
+          "dmg": 900
+        },
+        {
+          "level": 39,
+          "dmg": 930
+        },
+        {
+          "level": 40,
+          "dmg": 960
+        },
+        {
+          "level": 41,
+          "dmg": 990
+        },
+        {
+          "level": 42,
+          "dmg": 1025
+        },
+        {
+          "level": 43,
+          "dmg": 1050
+        },
+        {
+          "level": 44,
+          "dmg": 1090
+        },
+        {
+          "level": 45,
+          "dmg": 1125
+        },
+        {
+          "level": 46,
+          "dmg": 1150
+        },
+        {
+          "level": 47,
+          "dmg": 1190
+        },
+        {
+          "level": 48,
+          "dmg": 1220
+        },
+        {
+          "level": 49,
+          "dmg": 1260
+        },
+        {
+          "level": 50,
+          "dmg": 1290
+        },
+        {
+          "level": 51,
+          "dmg": 1330
+        },
+        {
+          "level": 52,
+          "dmg": 1370
+        },
+        {
+          "level": 53,
+          "dmg": 1405
+        },
+        {
+          "level": 54,
+          "dmg": 1440
+        },
+        {
+          "level": 55,
+          "dmg": 1480
+        },
+        {
+          "level": 56,
+          "dmg": 1510
+        },
+        {
+          "level": 57,
+          "dmg": 1550
+        },
+        {
+          "level": 58,
+          "dmg": 1590
+        },
+        {
+          "level": 59,
+          "dmg": 1635
+        },
+        {
+          "level": 60,
+          "dmg": 1670
+        }
+      ],
+      "damage_percentage": null,
+      "damage_everytime": null,
+      "health": null,
+      "max_health": 500,
+      "blood_damage": null,
+      "shield": null,
+      "avoid_ball": null,
+      "avoid_shells": null,
+      "invincible": null,
+      "reply_actionvalue": null,
+      "crit_rate": null,
+      "additional_action": null,
+      "weak": null,
+      "continuous_round": null,
+      "freeze_round": null,
+      "avoid_buff": null
+    },
+    {
+      "buff_id": 120021,
+      "name": "捕兽夹",
+      "aims": 2,
+      "probability": 10000,
+      "effect_range": null,
+      "damage": [
+        {
+          "level": 1,
+          "dmg": 41
+        },
+        {
+          "level": 2,
+          "dmg": 50
+        },
+        {
+          "level": 3,
+          "dmg": 59
+        },
+        {
+          "level": 4,
+          "dmg": 67
+        },
+        {
+          "level": 5,
+          "dmg": 76
+        },
+        {
+          "level": 6,
+          "dmg": 84
+        },
+        {
+          "level": 7,
+          "dmg": 93
+        },
+        {
+          "level": 8,
+          "dmg": 102
+        },
+        {
+          "level": 9,
+          "dmg": 111
+        },
+        {
+          "level": 10,
+          "dmg": 119
+        },
+        {
+          "level": 11,
+          "dmg": 128
+        },
+        {
+          "level": 12,
+          "dmg": 136
+        },
+        {
+          "level": 13,
+          "dmg": 145
+        },
+        {
+          "level": 14,
+          "dmg": 154
+        },
+        {
+          "level": 15,
+          "dmg": 163
+        },
+        {
+          "level": 16,
+          "dmg": 171
+        },
+        {
+          "level": 17,
+          "dmg": 179
+        },
+        {
+          "level": 18,
+          "dmg": 187
+        },
+        {
+          "level": 19,
+          "dmg": 195
+        },
+        {
+          "level": 20,
+          "dmg": 201
+        },
+        {
+          "level": 21,
+          "dmg": 213
+        },
+        {
+          "level": 22,
+          "dmg": 225
+        },
+        {
+          "level": 23,
+          "dmg": 234
+        },
+        {
+          "level": 24,
+          "dmg": 246
+        },
+        {
+          "level": 25,
+          "dmg": 260
+        },
+        {
+          "level": 26,
+          "dmg": 270
+        },
+        {
+          "level": 27,
+          "dmg": 282
+        },
+        {
+          "level": 28,
+          "dmg": 297
+        },
+        {
+          "level": 29,
+          "dmg": 309
+        },
+        {
+          "level": 30,
+          "dmg": 321
+        },
+        {
+          "level": 31,
+          "dmg": 333
+        },
+        {
+          "level": 32,
+          "dmg": 348
+        },
+        {
+          "level": 33,
+          "dmg": 360
+        },
+        {
+          "level": 34,
+          "dmg": 375
+        },
+        {
+          "level": 35,
+          "dmg": 387
+        },
+        {
+          "level": 36,
+          "dmg": 400
+        },
+        {
+          "level": 37,
+          "dmg": 416
+        },
+        {
+          "level": 38,
+          "dmg": 432
+        },
+        {
+          "level": 39,
+          "dmg": 448
+        },
+        {
+          "level": 40,
+          "dmg": 460
+        },
+        {
+          "level": 41,
+          "dmg": 476
+        },
+        {
+          "level": 42,
+          "dmg": 492
+        },
+        {
+          "level": 43,
+          "dmg": 500
+        },
+        {
+          "level": 44,
+          "dmg": 520
+        },
+        {
+          "level": 45,
+          "dmg": 540
+        },
+        {
+          "level": 46,
+          "dmg": 550
+        },
+        {
+          "level": 47,
+          "dmg": 570
+        },
+        {
+          "level": 48,
+          "dmg": 580
+        },
+        {
+          "level": 49,
+          "dmg": 600
+        },
+        {
+          "level": 50,
+          "dmg": 620
+        },
+        {
+          "level": 51,
+          "dmg": 640
+        },
+        {
+          "level": 52,
+          "dmg": 650
+        },
+        {
+          "level": 53,
+          "dmg": 670
+        },
+        {
+          "level": 54,
+          "dmg": 690
+        },
+        {
+          "level": 55,
+          "dmg": 710
+        },
+        {
+          "level": 56,
+          "dmg": 730
+        },
+        {
+          "level": 57,
+          "dmg": 740
+        },
+        {
+          "level": 58,
+          "dmg": 760
+        },
+        {
+          "level": 59,
+          "dmg": 785
+        },
+        {
+          "level": 60,
+          "dmg": 800
+        }
+      ],
+      "damage_percentage": null,
+      "damage_everytime": [
+        {
+          "level": 1,
+          "dmg": 28
+        },
+        {
+          "level": 2,
+          "dmg": 33
+        },
+        {
+          "level": 3,
+          "dmg": 39
+        },
+        {
+          "level": 4,
+          "dmg": 45
+        },
+        {
+          "level": 5,
+          "dmg": 50
+        },
+        {
+          "level": 6,
+          "dmg": 56
+        },
+        {
+          "level": 7,
+          "dmg": 62
+        },
+        {
+          "level": 8,
+          "dmg": 68
+        },
+        {
+          "level": 9,
+          "dmg": 74
+        },
+        {
+          "level": 10,
+          "dmg": 80
+        },
+        {
+          "level": 11,
+          "dmg": 85
+        },
+        {
+          "level": 12,
+          "dmg": 91
+        },
+        {
+          "level": 13,
+          "dmg": 97
+        },
+        {
+          "level": 14,
+          "dmg": 103
+        },
+        {
+          "level": 15,
+          "dmg": 108
+        },
+        {
+          "level": 16,
+          "dmg": 114
+        },
+        {
+          "level": 17,
+          "dmg": 119
+        },
+        {
+          "level": 18,
+          "dmg": 124
+        },
+        {
+          "level": 19,
+          "dmg": 130
+        },
+        {
+          "level": 20,
+          "dmg": 136
+        },
+        {
+          "level": 21,
+          "dmg": 142
+        },
+        {
+          "level": 22,
+          "dmg": 150
+        },
+        {
+          "level": 23,
+          "dmg": 158
+        },
+        {
+          "level": 24,
+          "dmg": 165
+        },
+        {
+          "level": 25,
+          "dmg": 173
+        },
+        {
+          "level": 26,
+          "dmg": 181
+        },
+        {
+          "level": 27,
+          "dmg": 190
+        },
+        {
+          "level": 28,
+          "dmg": 198
+        },
+        {
+          "level": 29,
+          "dmg": 204
+        },
+        {
+          "level": 30,
+          "dmg": 213
+        },
+        {
+          "level": 31,
+          "dmg": 222
+        },
+        {
+          "level": 32,
+          "dmg": 231
+        },
+        {
+          "level": 33,
+          "dmg": 240
+        },
+        {
+          "level": 34,
+          "dmg": 249
+        },
+        {
+          "level": 35,
+          "dmg": 260
+        },
+        {
+          "level": 36,
+          "dmg": 267
+        },
+        {
+          "level": 37,
+          "dmg": 279
+        },
+        {
+          "level": 38,
+          "dmg": 288
+        },
+        {
+          "level": 39,
+          "dmg": 297
+        },
+        {
+          "level": 40,
+          "dmg": 306
+        },
+        {
+          "level": 41,
+          "dmg": 318
+        },
+        {
+          "level": 42,
+          "dmg": 327
+        },
+        {
+          "level": 43,
+          "dmg": 339
+        },
+        {
+          "level": 44,
+          "dmg": 350
+        },
+        {
+          "level": 45,
+          "dmg": 360
+        },
+        {
+          "level": 46,
+          "dmg": 369
+        },
+        {
+          "level": 47,
+          "dmg": 381
+        },
+        {
+          "level": 48,
+          "dmg": 390
+        },
+        {
+          "level": 49,
+          "dmg": 404
+        },
+        {
+          "level": 50,
+          "dmg": 416
+        },
+        {
+          "level": 51,
+          "dmg": 424
+        },
+        {
+          "level": 52,
+          "dmg": 436
+        },
+        {
+          "level": 53,
+          "dmg": 450
+        },
+        {
+          "level": 54,
+          "dmg": 460
+        },
+        {
+          "level": 55,
+          "dmg": 472
+        },
+        {
+          "level": 56,
+          "dmg": 484
+        },
+        {
+          "level": 57,
+          "dmg": 496
+        },
+        {
+          "level": 58,
+          "dmg": 510
+        },
+        {
+          "level": 59,
+          "dmg": 520
+        },
+        {
+          "level": 60,
+          "dmg": 530
+        }
+      ],
+      "health": null,
+      "max_health": null,
+      "blood_damage": null,
+      "shield": null,
+      "avoid_ball": null,
+      "avoid_shells": null,
+      "invincible": null,
+      "reply_actionvalue": null,
+      "crit_rate": null,
+      "additional_action": null,
+      "weak": null,
+      "continuous_round": 2,
+      "freeze_round": null,
+      "avoid_buff": null
+    },
+    {
+      "buff_id": 120041,
+      "name": "雪球",
+      "aims": 2,
+      "probability": 3000,
+      "effect_range": null,
+      "damage": [
+        {
+          "level": 1,
+          "dmg": 64
+        },
+        {
+          "level": 2,
+          "dmg": 77
+        },
+        {
+          "level": 3,
+          "dmg": 91
+        },
+        {
+          "level": 4,
+          "dmg": 104
+        },
+        {
+          "level": 5,
+          "dmg": 117
+        },
+        {
+          "level": 6,
+          "dmg": 129
+        },
+        {
+          "level": 7,
+          "dmg": 143
+        },
+        {
+          "level": 8,
+          "dmg": 158
+        },
+        {
+          "level": 9,
+          "dmg": 171
+        },
+        {
+          "level": 10,
+          "dmg": 184
+        },
+        {
+          "level": 11,
+          "dmg": 197
+        },
+        {
+          "level": 12,
+          "dmg": 207
+        },
+        {
+          "level": 13,
+          "dmg": 222
+        },
+        {
+          "level": 14,
+          "dmg": 237
+        },
+        {
+          "level": 15,
+          "dmg": 250
+        },
+        {
+          "level": 16,
+          "dmg": 261
+        },
+        {
+          "level": 17,
+          "dmg": 273
+        },
+        {
+          "level": 18,
+          "dmg": 285
+        },
+        {
+          "level": 19,
+          "dmg": 300
+        },
+        {
+          "level": 20,
+          "dmg": 312
+        },
+        {
+          "level": 21,
+          "dmg": 330
+        },
+        {
+          "level": 22,
+          "dmg": 345
+        },
+        {
+          "level": 23,
+          "dmg": 363
+        },
+        {
+          "level": 24,
+          "dmg": 381
+        },
+        {
+          "level": 25,
+          "dmg": 400
+        },
+        {
+          "level": 26,
+          "dmg": 416
+        },
+        {
+          "level": 27,
+          "dmg": 436
+        },
+        {
+          "level": 28,
+          "dmg": 456
+        },
+        {
+          "level": 29,
+          "dmg": 476
+        },
+        {
+          "level": 30,
+          "dmg": 496
+        },
+        {
+          "level": 31,
+          "dmg": 510
+        },
+        {
+          "level": 32,
+          "dmg": 530
+        },
+        {
+          "level": 33,
+          "dmg": 550
+        },
+        {
+          "level": 34,
+          "dmg": 580
+        },
+        {
+          "level": 35,
+          "dmg": 600
+        },
+        {
+          "level": 36,
+          "dmg": 620
+        },
+        {
+          "level": 37,
+          "dmg": 640
+        },
+        {
+          "level": 38,
+          "dmg": 660
+        },
+        {
+          "level": 39,
+          "dmg": 690
+        },
+        {
+          "level": 40,
+          "dmg": 710
+        },
+        {
+          "level": 41,
+          "dmg": 730
+        },
+        {
+          "level": 42,
+          "dmg": 750
+        },
+        {
+          "level": 43,
+          "dmg": 780
+        },
+        {
+          "level": 44,
+          "dmg": 800
+        },
+        {
+          "level": 45,
+          "dmg": 830
+        },
+        {
+          "level": 46,
+          "dmg": 850
+        },
+        {
+          "level": 47,
+          "dmg": 880
+        },
+        {
+          "level": 48,
+          "dmg": 900
+        },
+        {
+          "level": 49,
+          "dmg": 930
+        },
+        {
+          "level": 50,
+          "dmg": 960
+        },
+        {
+          "level": 51,
+          "dmg": 980
+        },
+        {
+          "level": 52,
+          "dmg": 1015
+        },
+        {
+          "level": 53,
+          "dmg": 1040
+        },
+        {
+          "level": 54,
+          "dmg": 1060
+        },
+        {
+          "level": 55,
+          "dmg": 1090
+        },
+        {
+          "level": 56,
+          "dmg": 1125
+        },
+        {
+          "level": 57,
+          "dmg": 1150
+        },
+        {
+          "level": 58,
+          "dmg": 1180
+        },
+        {
+          "level": 59,
+          "dmg": 1210
+        },
+        {
+          "level": 60,
+          "dmg": 1240
+        }
+      ],
+      "damage_percentage": null,
+      "damage_everytime": null,
+      "health": null,
+      "max_health": null,
+      "blood_damage": null,
+      "shield": null,
+      "avoid_ball": null,
+      "avoid_shells": null,
+      "invincible": null,
+      "reply_actionvalue": null,
+      "crit_rate": null,
+      "additional_action": null,
+      "weak": null,
+      "continuous_round": null,
+      "freeze_round": 1,
+      "avoid_buff": null
+    },
+    {
+      "buff_id": 120051,
+      "name": "板砖",
+      "aims": 2,
+      "probability": 10000,
+      "effect_range": null,
+      "damage": null,
+      "damage_percentage": null,
+      "damage_everytime": null,
+      "health": null,
+      "max_health": null,
+      "blood_damage": [
+        {
+          "level": 1,
+          "dmg": 500
+        },
+        {
+          "level": 2,
+          "dmg": 500
+        },
+        {
+          "level": 3,
+          "dmg": 500
+        },
+        {
+          "level": 4,
+          "dmg": 500
+        },
+        {
+          "level": 5,
+          "dmg": 500
+        },
+        {
+          "level": 6,
+          "dmg": 500
+        },
+        {
+          "level": 7,
+          "dmg": 500
+        },
+        {
+          "level": 8,
+          "dmg": 500
+        },
+        {
+          "level": 9,
+          "dmg": 500
+        },
+        {
+          "level": 10,
+          "dmg": 500
+        },
+        {
+          "level": 11,
+          "dmg": 500
+        },
+        {
+          "level": 12,
+          "dmg": 500
+        },
+        {
+          "level": 13,
+          "dmg": 500
+        },
+        {
+          "level": 14,
+          "dmg": 500
+        },
+        {
+          "level": 15,
+          "dmg": 500
+        },
+        {
+          "level": 16,
+          "dmg": 500
+        },
+        {
+          "level": 17,
+          "dmg": 500
+        },
+        {
+          "level": 18,
+          "dmg": 500
+        },
+        {
+          "level": 19,
+          "dmg": 500
+        },
+        {
+          "level": 20,
+          "dmg": 500
+        },
+        {
+          "level": 21,
+          "dmg": 500
+        },
+        {
+          "level": 22,
+          "dmg": 500
+        },
+        {
+          "level": 23,
+          "dmg": 500
+        },
+        {
+          "level": 24,
+          "dmg": 500
+        },
+        {
+          "level": 25,
+          "dmg": 500
+        },
+        {
+          "level": 26,
+          "dmg": 500
+        },
+        {
+          "level": 27,
+          "dmg": 500
+        },
+        {
+          "level": 28,
+          "dmg": 500
+        },
+        {
+          "level": 29,
+          "dmg": 500
+        },
+        {
+          "level": 30,
+          "dmg": 500
+        },
+        {
+          "level": 31,
+          "dmg": 500
+        },
+        {
+          "level": 32,
+          "dmg": 500
+        },
+        {
+          "level": 33,
+          "dmg": 500
+        },
+        {
+          "level": 34,
+          "dmg": 500
+        },
+        {
+          "level": 35,
+          "dmg": 500
+        },
+        {
+          "level": 36,
+          "dmg": 500
+        },
+        {
+          "level": 37,
+          "dmg": 500
+        },
+        {
+          "level": 38,
+          "dmg": 500
+        },
+        {
+          "level": 39,
+          "dmg": 500
+        },
+        {
+          "level": 40,
+          "dmg": 500
+        },
+        {
+          "level": 41,
+          "dmg": 500
+        },
+        {
+          "level": 42,
+          "dmg": 500
+        },
+        {
+          "level": 43,
+          "dmg": 500
+        },
+        {
+          "level": 44,
+          "dmg": 500
+        },
+        {
+          "level": 45,
+          "dmg": 500
+        },
+        {
+          "level": 46,
+          "dmg": 500
+        },
+        {
+          "level": 47,
+          "dmg": 500
+        },
+        {
+          "level": 48,
+          "dmg": 500
+        },
+        {
+          "level": 49,
+          "dmg": 500
+        },
+        {
+          "level": 50,
+          "dmg": 500
+        },
+        {
+          "level": 51,
+          "dmg": 500
+        },
+        {
+          "level": 52,
+          "dmg": 500
+        },
+        {
+          "level": 53,
+          "dmg": 500
+        },
+        {
+          "level": 54,
+          "dmg": 500
+        }
+      ],
+      "shield": null,
+      "avoid_ball": null,
+      "avoid_shells": null,
+      "invincible": null,
+      "reply_actionvalue": null,
+      "crit_rate": 3000,
+      "additional_action": null,
+      "weak": null,
+      "continuous_round": null,
+      "freeze_round": null,
+      "avoid_buff": null
+    },
+    {
+      "buff_id": 120061,
+      "name": "雷神之锤",
+      "aims": 2,
+      "probability": 10000,
+      "effect_range": null,
+      "damage": [
+        {
+          "level": 1,
+          "dmg": 94
+        },
+        {
+          "level": 2,
+          "dmg": 113
+        },
+        {
+          "level": 3,
+          "dmg": 136
+        },
+        {
+          "level": 4,
+          "dmg": 154
+        },
+        {
+          "level": 5,
+          "dmg": 176
+        },
+        {
+          "level": 6,
+          "dmg": 195
+        },
+        {
+          "level": 7,
+          "dmg": 219
+        },
+        {
+          "level": 8,
+          "dmg": 237
+        },
+        {
+          "level": 9,
+          "dmg": 261
+        },
+        {
+          "level": 10,
+          "dmg": 282
+        },
+        {
+          "level": 11,
+          "dmg": 300
+        },
+        {
+          "level": 12,
+          "dmg": 324
+        },
+        {
+          "level": 13,
+          "dmg": 342
+        },
+        {
+          "level": 14,
+          "dmg": 366
+        },
+        {
+          "level": 15,
+          "dmg": 381
+        },
+        {
+          "level": 16,
+          "dmg": 400
+        },
+        {
+          "level": 17,
+          "dmg": 420
+        },
+        {
+          "level": 18,
+          "dmg": 440
+        },
+        {
+          "level": 19,
+          "dmg": 468
+        },
+        {
+          "level": 20,
+          "dmg": 495
+        },
+        {
+          "level": 21,
+          "dmg": 525
+        },
+        {
+          "level": 22,
+          "dmg": 550
+        },
+        {
+          "level": 23,
+          "dmg": 580
+        },
+        {
+          "level": 24,
+          "dmg": 610
+        },
+        {
+          "level": 25,
+          "dmg": 640
+        },
+        {
+          "level": 26,
+          "dmg": 660
+        },
+        {
+          "level": 27,
+          "dmg": 700
+        },
+        {
+          "level": 28,
+          "dmg": 730
+        },
+        {
+          "level": 29,
+          "dmg": 760
+        },
+        {
+          "level": 30,
+          "dmg": 800
+        },
+        {
+          "level": 31,
+          "dmg": 830
+        },
+        {
+          "level": 32,
+          "dmg": 860
+        },
+        {
+          "level": 33,
+          "dmg": 890
+        },
+        {
+          "level": 34,
+          "dmg": 930
+        },
+        {
+          "level": 35,
+          "dmg": 970
+        },
+        {
+          "level": 36,
+          "dmg": 1000
+        },
+        {
+          "level": 37,
+          "dmg": 1040
+        },
+        {
+          "level": 38,
+          "dmg": 1080
+        },
+        {
+          "level": 39,
+          "dmg": 1120
+        },
+        {
+          "level": 40,
+          "dmg": 1150
+        },
+        {
+          "level": 41,
+          "dmg": 1200
+        },
+        {
+          "level": 42,
+          "dmg": 1235
+        },
+        {
+          "level": 43,
+          "dmg": 1270
+        },
+        {
+          "level": 44,
+          "dmg": 1310
+        },
+        {
+          "level": 45,
+          "dmg": 1360
+        },
+        {
+          "level": 46,
+          "dmg": 1405
+        },
+        {
+          "level": 47,
+          "dmg": 1440
+        },
+        {
+          "level": 48,
+          "dmg": 1480
+        },
+        {
+          "level": 49,
+          "dmg": 1520
+        },
+        {
+          "level": 50,
+          "dmg": 1575
+        },
+        {
+          "level": 51,
+          "dmg": 1610
+        },
+        {
+          "level": 52,
+          "dmg": 1665
+        },
+        {
+          "level": 53,
+          "dmg": 1705
+        },
+        {
+          "level": 54,
+          "dmg": 1750
+        }
+      ],
+      "damage_percentage": null,
+      "damage_everytime": null,
+      "health": null,
+      "max_health": null,
+      "blood_damage": null,
+      "shield": null,
+      "avoid_ball": null,
+      "avoid_shells": null,
+      "invincible": null,
+      "reply_actionvalue": null,
+      "crit_rate": 3000,
+      "additional_action": null,
+      "weak": null,
+      "continuous_round": null,
+      "freeze_round": null,
+      "avoid_buff": null
+    }
+  ]
+}

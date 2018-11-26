@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "note_diamond",
+    "texture": "593ec628-d2bd-4558-a699-ed7f1b12596b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      602,
+      340
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      602,
+      340
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

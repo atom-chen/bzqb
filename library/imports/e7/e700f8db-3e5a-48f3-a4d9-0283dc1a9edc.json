@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sp_honor",
+    "texture": "47377a92-d0d2-411a-90e8-64877322ea4e",
+    "atlas": "",
+    "rect": [
+      3,
+      1,
+      92,
+      96
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      100,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "openBox_3",
+    "texture": "8e60db0b-dd70-4f0d-b88a-f1bd02cf6e63",
+    "atlas": "",
+    "rect": [
+      12,
+      16,
+      161,
+      131
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      185,
+      162
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

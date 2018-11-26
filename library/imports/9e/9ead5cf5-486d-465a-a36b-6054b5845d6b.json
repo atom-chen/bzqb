@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Inviting",
+    "texture": "0e6312c5-2e3f-4881-9899-4e0e7f200570",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      119,
+      191
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      119,
+      191
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

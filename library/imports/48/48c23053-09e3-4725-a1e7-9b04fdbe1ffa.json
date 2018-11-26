@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "talenSmall2",
+    "texture": "1dc672dd-5c4d-4c77-a95d-5b5fd1dd175a",
+    "atlas": "",
+    "rect": [
+      5,
+      5,
+      54,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

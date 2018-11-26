@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_sendInvite",
+    "texture": "8aef7d7f-a82d-429f-9681-bb9377d91a05",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      95,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      95,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

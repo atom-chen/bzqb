@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c68dee90-49a4-4c43-9ca3-bc37a565cbae",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "货币-钻石": {
+      "ver": "1.0.3",
+      "uuid": "06b38471-a0c1-4e1a-8e13-e4c334e3a11b",
+      "rawTextureUuid": "c68dee90-49a4-4c43-9ca3-bc37a565cbae",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 48,
+      "height": 46,
+      "rawWidth": 48,
+      "rawHeight": 46,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

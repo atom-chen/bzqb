@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lab_money",
+    "texture": "27674c85-bec9-48a5-b00f-e9c01b902328",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      240,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      240,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boxWait",
+    "texture": "c99410a5-58cc-40ab-bb1b-db0f7ff747a3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      318,
+      212
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      318,
+      212
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

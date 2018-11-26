@@ -1,0 +1,6 @@
+[
+    {"star":1,"honorPoint":5,"getGold":{"probability":6000,"amount":100},"getExp":{"probability":2000,"exp":100},"getCrystal":{"probability":2000,"amount":100}},
+    {"star":2,"honorPoint":12,"getGold":{"probability":6000,"amount":100},"getExp":{"probability":2000,"exp":100},"getCrystal":{"probability":2000,"amount":100}},
+    {"star":3,"honorPoint":70,"getGold":{"probability":6000,"amount":100},"getExp":{"probability":2000,"exp":100},"getCrystal":{"probability":2000,"amount":100}},
+    {"star":4,"honorPoint":320,"getGold":{"probability":6000,"amount":100},"getExp":{"probability":2000,"exp":100},"getCrystal":{"probability":2000,"amount":100}}
+]

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "achievementBG",
+    "texture": "002d1ce4-7f48-416c-9354-892d4fcb511c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      801,
+      482
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      801,
+      482
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

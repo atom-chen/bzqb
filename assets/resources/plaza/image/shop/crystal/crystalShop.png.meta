@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8e3e0b1a-c7ee-42c2-a210-a837abcc0c96",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "crystalShop": {
+      "ver": "1.0.3",
+      "uuid": "4d6b7091-dbc2-4b2e-a1ad-b6139a8662d2",
+      "rawTextureUuid": "8e3e0b1a-c7ee-42c2-a210-a837abcc0c96",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 187,
+      "height": 203,
+      "rawWidth": 187,
+      "rawHeight": 203,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

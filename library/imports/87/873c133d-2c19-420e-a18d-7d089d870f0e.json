@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "跳过",
+    "texture": "898976fb-5f04-4c01-b737-e33582ff6689",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      96,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      96,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "按钮-紫色",
+    "texture": "c28fbfa5-0524-482c-b266-2163beeb50db",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      190,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      73
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

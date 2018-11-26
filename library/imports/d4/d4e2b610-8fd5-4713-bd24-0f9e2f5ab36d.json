@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "解锁",
+    "texture": "5641fda0-bacc-41af-ab60-df12c816a415",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      98,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      98,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

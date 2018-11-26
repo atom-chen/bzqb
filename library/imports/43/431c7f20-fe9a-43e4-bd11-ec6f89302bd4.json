@@ -1,0 +1,328 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "shuxing_shuxing",
+  "_objFlags": 0,
+  "_native": "",
+  "json": [
+    {
+      "level": 1,
+      "experience": 55,
+      "atk": 22,
+      "hp": 263,
+      "crt": 5,
+      "crtdamage": 1
+    },
+    {
+      "level": 2,
+      "experience": 255,
+      "atk": 24,
+      "hp": 285,
+      "crt": 5,
+      "crtdamage": 1
+    },
+    {
+      "level": 3,
+      "experience": 555,
+      "atk": 26,
+      "hp": 308,
+      "crt": 5,
+      "crtdamage": 1
+    },
+    {
+      "level": 4,
+      "experience": 955,
+      "atk": 28,
+      "hp": 332,
+      "crt": 5,
+      "crtdamage": 1
+    },
+    {
+      "level": 5,
+      "experience": 1455,
+      "atk": 30,
+      "hp": 357,
+      "crt": 5,
+      "crtdamage": 1
+    },
+    {
+      "level": 6,
+      "experience": 2055,
+      "atk": 32,
+      "hp": 383,
+      "crt": 5,
+      "crtdamage": 1
+    },
+    {
+      "level": 7,
+      "experience": 2755,
+      "atk": 34,
+      "hp": 410,
+      "crt": 5,
+      "crtdamage": 1
+    },
+    {
+      "level": 8,
+      "experience": 3555,
+      "atk": 36,
+      "hp": 438,
+      "crt": 5,
+      "crtdamage": 1
+    },
+    {
+      "level": 9,
+      "experience": 4455,
+      "atk": 38,
+      "hp": 467,
+      "crt": 5,
+      "crtdamage": 1
+    },
+    {
+      "level": 10,
+      "experience": 5455,
+      "atk": 40,
+      "hp": 497,
+      "crt": 5,
+      "crtdamage": 1
+    },
+    {
+      "level": 11,
+      "experience": 6555,
+      "atk": 42,
+      "hp": 528,
+      "crt": 5,
+      "crtdamage": 1
+    },
+    {
+      "level": 12,
+      "experience": 7755,
+      "atk": 44,
+      "hp": 560,
+      "crt": 5,
+      "crtdamage": 1
+    },
+    {
+      "level": 13,
+      "experience": 9055,
+      "atk": 46,
+      "hp": 593,
+      "crt": 5,
+      "crtdamage": 1
+    },
+    {
+      "level": 14,
+      "experience": 10455,
+      "atk": 48,
+      "hp": 627,
+      "crt": 5,
+      "crtdamage": 1
+    },
+    {
+      "level": 15,
+      "experience": 11955,
+      "atk": 50,
+      "hp": 662,
+      "crt": 8,
+      "crtdamage": 1
+    },
+    {
+      "level": 16,
+      "experience": 13555,
+      "atk": 52,
+      "hp": 698,
+      "crt": 8,
+      "crtdamage": 1
+    },
+    {
+      "level": 17,
+      "experience": 15255,
+      "atk": 54,
+      "hp": 735,
+      "crt": 8,
+      "crtdamage": 1
+    },
+    {
+      "level": 18,
+      "experience": 17055,
+      "atk": 56,
+      "hp": 773,
+      "crt": 8,
+      "crtdamage": 1
+    },
+    {
+      "level": 19,
+      "experience": 18955,
+      "atk": 58,
+      "hp": 812,
+      "crt": 8,
+      "crtdamage": 1
+    },
+    {
+      "level": 20,
+      "experience": 20955,
+      "atk": 60,
+      "hp": 852,
+      "crt": 8,
+      "crtdamage": 1
+    },
+    {
+      "level": 21,
+      "experience": 23055,
+      "atk": 62,
+      "hp": 893,
+      "crt": 8,
+      "crtdamage": 1
+    },
+    {
+      "level": 22,
+      "experience": 25255,
+      "atk": 64,
+      "hp": 935,
+      "crt": 8,
+      "crtdamage": 1
+    },
+    {
+      "level": 23,
+      "experience": 27555,
+      "atk": 66,
+      "hp": 978,
+      "crt": 8,
+      "crtdamage": 1
+    },
+    {
+      "level": 24,
+      "experience": 29955,
+      "atk": 68,
+      "hp": 1022,
+      "crt": 8,
+      "crtdamage": 1
+    },
+    {
+      "level": 25,
+      "experience": 32455,
+      "atk": 70,
+      "hp": 1067,
+      "crt": 10,
+      "crtdamage": 1
+    },
+    {
+      "level": 26,
+      "experience": 35055,
+      "atk": 72,
+      "hp": 1113,
+      "crt": 10,
+      "crtdamage": 1
+    },
+    {
+      "level": 27,
+      "experience": 37755,
+      "atk": 74,
+      "hp": 1160,
+      "crt": 10,
+      "crtdamage": 1
+    },
+    {
+      "level": 28,
+      "experience": 40555,
+      "atk": 76,
+      "hp": 1208,
+      "crt": 10,
+      "crtdamage": 1
+    },
+    {
+      "level": 29,
+      "experience": 43455,
+      "atk": 78,
+      "hp": 1257,
+      "crt": 10,
+      "crtdamage": 1
+    },
+    {
+      "level": 30,
+      "experience": 46455,
+      "atk": 80,
+      "hp": 1307,
+      "crt": 10,
+      "crtdamage": 1
+    },
+    {
+      "level": 31,
+      "experience": 49555,
+      "atk": 82,
+      "hp": 1358,
+      "crt": 10,
+      "crtdamage": 1
+    },
+    {
+      "level": 32,
+      "experience": 52755,
+      "atk": 84,
+      "hp": 1410,
+      "crt": 10,
+      "crtdamage": 1
+    },
+    {
+      "level": 33,
+      "experience": 56055,
+      "atk": 86,
+      "hp": 1463,
+      "crt": 10,
+      "crtdamage": 1
+    },
+    {
+      "level": 34,
+      "experience": 59455,
+      "atk": 88,
+      "hp": 1517,
+      "crt": 10,
+      "crtdamage": 1
+    },
+    {
+      "level": 35,
+      "experience": 62955,
+      "atk": 90,
+      "hp": 1572,
+      "crt": 10,
+      "crtdamage": 1
+    },
+    {
+      "level": 36,
+      "experience": 66555,
+      "atk": 92,
+      "hp": 1628,
+      "crt": 10,
+      "crtdamage": 1
+    },
+    {
+      "level": 37,
+      "experience": 70255,
+      "atk": 94,
+      "hp": 1685,
+      "crt": 10,
+      "crtdamage": 1
+    },
+    {
+      "level": 38,
+      "experience": 74055,
+      "atk": 96,
+      "hp": 1743,
+      "crt": 10,
+      "crtdamage": 1
+    },
+    {
+      "level": 39,
+      "experience": 77955,
+      "atk": 98,
+      "hp": 1802,
+      "crt": 10,
+      "crtdamage": 1
+    },
+    {
+      "level": 40,
+      "experience": 999999,
+      "atk": 100,
+      "hp": 1862,
+      "crt": 10,
+      "crtdamage": 1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heroIco",
+    "texture": "4ddc9613-b0f4-4fa2-8e35-d123a70c92ab",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

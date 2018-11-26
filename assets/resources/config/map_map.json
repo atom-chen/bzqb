@@ -1,0 +1,20 @@
+[
+    {"id":1001,"name":"静谧丛林","describe":"兰特博士发现了一处与世隔绝的遗迹，此处散发着一股特殊又神秘的能量，这种蕴含强大生命气息的能量改变了附近动植物的生长，使其体型远远大于正常物种。","type":1,"gravity":null,"windpower":null,"fore":"fore","static":null,"back":"back","bgm":null,"birthtype":1,"birthpoint":null,"boxpoint":null},
+    {"id":1002,"name":"静谧丛林","describe":"兰特博士发现了一处与世隔绝的遗迹，此处散发着一股特殊又神秘的能量，这种蕴含强大生命气息的能量改变了附近动植物的生长，使其体型远远大于正常物种。","type":1,"gravity":null,"windpower":null,"fore":"fore","static":null,"back":"back","bgm":null,"birthtype":2,"birthpoint":null,"boxpoint":null},
+    {"id":1003,"name":"地狱边境","describe":null,"type":1,"gravity":null,"windpower":null,"fore":"fore","static":null,"back":"back","bgm":null,"birthtype":1,"birthpoint":null,"boxpoint":null},
+    {"id":1004,"name":"地狱边境","describe":null,"type":1,"gravity":null,"windpower":null,"fore":"fore","static":null,"back":"back","bgm":null,"birthtype":2,"birthpoint":null,"boxpoint":null},
+    {"id":1005,"name":"烁金沙漠","describe":null,"type":1,"gravity":null,"windpower":null,"fore":"fore","static":null,"back":"back","bgm":null,"birthtype":1,"birthpoint":null,"boxpoint":null},
+    {"id":1006,"name":"烁金沙漠","describe":null,"type":1,"gravity":null,"windpower":null,"fore":"fore","static":null,"back":"back","bgm":null,"birthtype":2,"birthpoint":null,"boxpoint":null},
+    {"id":1007,"name":"北极冰原","describe":null,"type":1,"gravity":null,"windpower":null,"fore":"fore","static":null,"back":"back","bgm":null,"birthtype":1,"birthpoint":null,"boxpoint":null},
+    {"id":1008,"name":"北极冰原","describe":null,"type":1,"gravity":null,"windpower":null,"fore":"fore","static":null,"back":"back","bgm":null,"birthtype":2,"birthpoint":null,"boxpoint":null},
+    {"id":1009,"name":"沉船遗迹","describe":null,"type":1,"gravity":null,"windpower":null,"fore":"fore","static":null,"back":"back","bgm":null,"birthtype":1,"birthpoint":null,"boxpoint":null},
+    {"id":1010,"name":"沉船遗迹","describe":null,"type":1,"gravity":null,"windpower":null,"fore":"fore","static":null,"back":"back","bgm":null,"birthtype":2,"birthpoint":null,"boxpoint":null},
+    {"id":1011,"name":"水晶矿洞","describe":null,"type":1,"gravity":null,"windpower":null,"fore":"fore","static":null,"back":"back","bgm":null,"birthtype":1,"birthpoint":null,"boxpoint":null},
+    {"id":1012,"name":"水晶矿洞","describe":null,"type":1,"gravity":null,"windpower":null,"fore":"fore","static":null,"back":"back","bgm":null,"birthtype":2,"birthpoint":null,"boxpoint":null},
+    {"id":1013,"name":"巨兽海岛","describe":null,"type":1,"gravity":null,"windpower":null,"fore":"fore","static":null,"back":"back","bgm":null,"birthtype":1,"birthpoint":null,"boxpoint":null},
+    {"id":1014,"name":"巨兽海岛","describe":null,"type":1,"gravity":null,"windpower":null,"fore":"fore","static":null,"back":"back","bgm":null,"birthtype":2,"birthpoint":null,"boxpoint":null},
+    {"id":1015,"name":"废弃工厂","describe":null,"type":1,"gravity":null,"windpower":null,"fore":"fore","static":null,"back":"back","bgm":null,"birthtype":1,"birthpoint":null,"boxpoint":null},
+    {"id":1016,"name":"废弃工厂","describe":null,"type":1,"gravity":null,"windpower":null,"fore":"fore","static":null,"back":"back","bgm":null,"birthtype":2,"birthpoint":null,"boxpoint":null},
+    {"id":1017,"name":"新春长城","describe":null,"type":1,"gravity":null,"windpower":null,"fore":"fore","static":null,"back":"back","bgm":null,"birthtype":1,"birthpoint":null,"boxpoint":null},
+    {"id":1018,"name":"新春长城","describe":null,"type":1,"gravity":null,"windpower":null,"fore":"fore","static":null,"back":"back","bgm":null,"birthtype":2,"birthpoint":null,"boxpoint":null}
+]

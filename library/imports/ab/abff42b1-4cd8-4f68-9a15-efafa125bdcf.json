@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rankIco",
+    "texture": "f6dbb87c-6c12-4f7a-ab67-04a1aeac1714",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      84,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      81
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

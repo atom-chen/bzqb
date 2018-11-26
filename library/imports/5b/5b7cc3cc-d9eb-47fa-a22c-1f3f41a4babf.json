@@ -1,0 +1,128 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "role_juese",
+  "_objFlags": 0,
+  "_native": "",
+  "json": [
+    {
+      "roleId": 1001,
+      "name": "小男孩",
+      "roleimage": null,
+      "rolehead": null,
+      "unlock_gold": 10000,
+      "unlock_crystal": null,
+      "unlock_diamond": null,
+      "unlock_chip": null,
+      "unlock_vip": null
+    },
+    {
+      "roleId": 1002,
+      "name": "小女孩",
+      "roleimage": null,
+      "rolehead": null,
+      "unlock_gold": 10000,
+      "unlock_crystal": null,
+      "unlock_diamond": null,
+      "unlock_chip": null,
+      "unlock_vip": null
+    },
+    {
+      "roleId": 1003,
+      "name": "匹诺曹",
+      "roleimage": null,
+      "rolehead": null,
+      "unlock_gold": 10000,
+      "unlock_crystal": null,
+      "unlock_diamond": 500,
+      "unlock_chip": null,
+      "unlock_vip": null
+    },
+    {
+      "roleId": 1004,
+      "name": "青蛙王子",
+      "roleimage": null,
+      "rolehead": null,
+      "unlock_gold": null,
+      "unlock_crystal": 5000,
+      "unlock_diamond": 500,
+      "unlock_chip": null,
+      "unlock_vip": null
+    },
+    {
+      "roleId": 1005,
+      "name": "丘比特",
+      "roleimage": null,
+      "rolehead": null,
+      "unlock_gold": 50000,
+      "unlock_crystal": null,
+      "unlock_diamond": 500,
+      "unlock_chip": null,
+      "unlock_vip": null
+    },
+    {
+      "roleId": 1006,
+      "name": "哈利波特",
+      "roleimage": null,
+      "rolehead": null,
+      "unlock_gold": null,
+      "unlock_crystal": null,
+      "unlock_diamond": 500,
+      "unlock_chip": [
+        {
+          "itemid": 10005,
+          "count": 20
+        }
+      ],
+      "unlock_vip": null
+    },
+    {
+      "roleId": 1007,
+      "name": "小红帽",
+      "roleimage": null,
+      "rolehead": null,
+      "unlock_gold": null,
+      "unlock_crystal": null,
+      "unlock_diamond": 500,
+      "unlock_chip": [
+        {
+          "itemid": 10005,
+          "count": 20
+        }
+      ],
+      "unlock_vip": null
+    },
+    {
+      "roleId": 1008,
+      "name": "人鱼公主",
+      "roleimage": null,
+      "rolehead": null,
+      "unlock_gold": null,
+      "unlock_crystal": null,
+      "unlock_diamond": 500,
+      "unlock_chip": null,
+      "unlock_vip": 5
+    },
+    {
+      "roleId": 1009,
+      "name": "库巴公主",
+      "roleimage": null,
+      "rolehead": null,
+      "unlock_gold": 999999,
+      "unlock_crystal": null,
+      "unlock_diamond": null,
+      "unlock_chip": null,
+      "unlock_vip": null
+    },
+    {
+      "roleId": 1010,
+      "name": "猫耳娘",
+      "roleimage": null,
+      "rolehead": null,
+      "unlock_gold": 999999,
+      "unlock_crystal": null,
+      "unlock_diamond": null,
+      "unlock_chip": null,
+      "unlock_vip": null
+    }
+  ]
+}

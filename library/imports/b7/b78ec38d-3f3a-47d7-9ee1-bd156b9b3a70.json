@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "roleIco_9",
+    "texture": "79e76603-39c0-4997-aba3-df4a1efb8ae0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      145,
+      172
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      145,
+      172
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

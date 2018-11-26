@@ -1,0 +1,13 @@
+{
+    "dataSvrHost": "192.168.30.45", 
+    "dataSvrPort": 3800, 
+    "downLoadPage": "http://47.106.74.65/products_bzqb", 
+    "gameSvrHost": "192.168.30.45", 
+    "gameSvrPort": 7001, 
+    "gameSvrTag": "yhy_game", 
+    "hotUrl": "http://47.106.74.65/products_bzqb", 
+    "payTest": 0, 
+    "platSvrHost": "192.168.20.16", 
+    "platSvrPort": 5200, 
+    "resUrl": "http://47.106.74.65/products_bzqb"
+}

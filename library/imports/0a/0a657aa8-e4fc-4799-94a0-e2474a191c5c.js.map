@@ -1,0 +1,1 @@
+{"version":3,"sources":["..\\..\\..\\..\\..\\assets\\modules\\game/assets\\modules\\game\\gameResPath.ts"],"names":[],"mappings":";;;;AAAA,iBAAS;IACL,MAAM,EAAE,EAEP;IAED,KAAK,EAAE,EAEN;CACJ,CAAC","file":"","sourceRoot":"..\\..\\..\\..\\..\\assets\\modules\\game","sourcesContent":["export = {\r\n    prefab: {\r\n        \r\n    },\r\n\r\n    image: {\r\n\r\n    }\r\n};"]}

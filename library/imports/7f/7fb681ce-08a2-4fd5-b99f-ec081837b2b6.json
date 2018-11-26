@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yaoshiIco",
+    "texture": "83322c32-f1aa-4091-b9f2-2799c4996ccd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

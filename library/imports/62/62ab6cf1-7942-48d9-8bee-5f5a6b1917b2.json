@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "按钮-置灰",
+    "texture": "b9e64091-90e9-4e0f-a252-eda581f7f471",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      190,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      73
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

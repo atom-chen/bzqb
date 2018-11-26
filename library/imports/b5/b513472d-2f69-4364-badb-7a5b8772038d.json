@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "roleIcobg",
+    "texture": "2006d74a-97d7-41d7-a904-0650e44c3d92",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      156,
+      186
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      156,
+      186
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

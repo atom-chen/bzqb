@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vipIco_9",
+    "texture": "12d9586a-6cc3-4069-a395-ece3db9f5405",
+    "atlas": "",
+    "rect": [
+      14,
+      8,
+      58,
+      52
+    ],
+    "offset": [
+      -1,
+      3
+    ],
+    "originalSize": [
+      88,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

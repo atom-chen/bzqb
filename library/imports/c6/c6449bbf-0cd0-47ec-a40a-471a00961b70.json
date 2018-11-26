@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "invitingFriends",
+    "texture": "410b4d9d-c27f-4074-be1f-e926d8b719b2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      800,
+      482
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      800,
+      482
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

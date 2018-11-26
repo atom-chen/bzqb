@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "foreverCard",
+    "texture": "ad3d99f8-f26c-4012-bec7-cb4cf1685e8b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      800,
+      481
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      800,
+      481
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

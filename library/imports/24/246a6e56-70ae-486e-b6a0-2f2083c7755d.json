@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BeCompleted",
+    "texture": "551020ab-569b-4336-bd1e-1b19312998d8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      187,
+      351
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      187,
+      351
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

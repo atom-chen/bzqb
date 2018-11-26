@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "testMis",
+    "texture": "3335068c-65b5-484f-ba15-d1ab5848418d",
+    "atlas": "",
+    "rect": [
+      5,
+      8,
+      89,
+      90
+    ],
+    "offset": [
+      -0.5,
+      -3
+    ],
+    "originalSize": [
+      100,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

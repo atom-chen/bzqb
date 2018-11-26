@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "diamondShop",
+    "texture": "9ff4dedb-7621-4454-943d-263b9182fce7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      185,
+      199
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      185,
+      199
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "movepower",
+    "texture": "2c5dc8e6-900e-43d7-9983-e361d4f98a21",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      20,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      20,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

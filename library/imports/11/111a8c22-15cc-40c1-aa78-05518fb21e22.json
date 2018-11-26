@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "resetLab",
+    "texture": "61e1675a-de2a-4cfd-8cca-cc05346c5c01",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

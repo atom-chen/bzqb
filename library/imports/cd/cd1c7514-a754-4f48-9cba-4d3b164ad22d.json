@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "enemyInformationBG",
+    "texture": "48f8f804-975f-4c00-ac6f-0d760f9acfed",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      245,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      245,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

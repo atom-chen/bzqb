@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "note_box",
+    "texture": "08f3207f-6f82-4cfc-b4f7-0df61ee49b8c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      603,
+      342
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      603,
+      342
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

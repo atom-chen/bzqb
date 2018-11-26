@@ -1,0 +1,117 @@
+(function() {"use strict";var __module = CC_EDITOR ? module : {exports:{}};var __filename = 'preview-scripts/assets/framework/net/dataids.js';var __require = CC_EDITOR ? function (request) {return cc.require(request, require);} : function (request) {return cc.require(request, __filename);};function __define (exports, require, module) {"use strict";
+cc._RF.push(module, '77f81ek7HJOxLcBPQwQjxP2', 'dataids', __filename);
+// framework/net/dataids.ts
+
+Object.defineProperty(exports, "__esModule", { value: true });
+//增量类型
+exports.dataids = {
+    ID_CONNECTOR_INFO: 1,
+    ID_USER_INFO: 2,
+    ID_PLAYER_INFO: 3,
+    ID_USER_MONEYGOLD: 4,
+    ID_USRE_LEVEL: 5,
+    ID_EVENT: 6,
+    ID_USRE_EXPERIENCE: 7,
+    ID_GET_ITEM: 8,
+    ID_ITEM_COUNT: 9,
+    ID_ROLEID_CHANGED: 10,
+    ID_SERVER_TIME: 11,
+    ID_ONLINEBOX_OPENTIMES: 12,
+    ID_ROLELIST: 13,
+    ID_BOXLIST: 14,
+    ID_USER_SCORE: 15,
+    ID_USER_STAR_LEVEL: 16,
+    ID_USER_VIP_LEVEL: 17,
+    ID_USER_HONOR: 18,
+    ID_ALLITEMS: 19,
+    ID_UNLOCKBOX: 20,
+    ID_FRIENDINFOLIST: 21,
+    ID_PLAYER_DETAIL_INFO: 22,
+    ID_REMOVE_FRIEND: 23,
+    ID_GUILD_INVITE: 24,
+    ID_UNLOCKFAST_UNLOCKTIME: 25,
+    ID_OPR_BOXID: 26,
+    ID_PRIZE_LIST_TEJI: 27,
+    ID_UID: 28,
+    ID_TEJI_EQUIP: 29,
+    ID_TEJI_INFO: 30,
+    ID_TEJI_LEVELUP: 31,
+    ID_USER_MONEYFEN: 32,
+    ID_USER_MONEYSTONE: 33,
+    ID_UNLOCK_ROLE: 34,
+    ID_EQUIP_ROLE: 35,
+    ID_SHOP_INFO: 36,
+    ID_OPR_SHOPTYPE: 37,
+    ID_SHOP_BUYCOUNTINFO: 38,
+    ID_USER_NICKNAME_CHANGED: 39,
+    ID_ACHIEVEINFO: 40,
+    ID_ACHIEVECHANGE: 41,
+    ID_DAILYMISSIONINFO: 42,
+    ID_FREQUENCY: 43,
+    ID_GET_TEJIS: 44,
+    ID_GET_MAILS: 45,
+    ID_READ_MAIL: 46,
+    ID_DEL_MAIL: 47,
+    ID_GET_MAILITEMS: 48,
+    ID_GET_BOX: 49,
+    ID_OPEN_TIMES: 50,
+    ID_GET_MONEY_GOLD: 51,
+    ID_GET_MONEY_FEN: 52,
+    ID_GET_MONEY_STONE: 53,
+    ID_GUILDLIST: 54,
+    ID_GUILDINFO: 56,
+    ID_MYGUILDMEMBERINFO: 57,
+    ID_GUILDMEMBERS: 58,
+    ID_USREGUILDID_CHANGED: 59,
+    ID_GET_SIGNIN_INFO: 60,
+    ID_DOSIGNIN_RECINFO: 61,
+    ID_MULTISIGNIN_RECINFO: 62,
+    ID_KIKGUILDMEMBER: 63,
+    ID_GUILD_ANNOUNCEMENT: 64,
+    ID_GUILDPOSITION_CHANGED: 65,
+    ID_UNSETTLEDINFO: 66,
+    ID_FRIEND_IDS: 67,
+    ID_ADDFRIEND: 68,
+    ID_KICKFRIEND: 69,
+    ID_GET_TALENTINFO: 70,
+    ID_GET_LEARNTALENT: 71,
+    ID_MONTHLYCARD_INFO: 72,
+    ID_LIFETIMECARD_INFO: 73,
+    ID_MONTHLYCARD_BOXPRIZE: 74,
+    ID_GET_VIPINFO: 75,
+    ID_GET_RESETTALENT: 76,
+    ID_GET_BUYVIPGIFT: 77,
+    ID_GET_WEEKVIPPRIZE: 78,
+    ID_USERDETAIL: 79,
+    ID_GET_BOXPRIZE: 80,
+    ID_RANKLIST: 81,
+    ID_MYRANK_INFO: 82,
+    ID_GET_LEVELBOX: 83,
+    ID_GET_ALLTYPE_ITEMS: 84,
+    ID_USERLIST: 85,
+    ID_USER_BRIEF: 86,
+    ID_REFUSE_GUILD_INVITE: 87,
+    ID_AGREE_GUILD_APPLY: 88,
+    ID_REFUSE_GUILD_APPLY: 89,
+    ID_NEWGUILDMEMBER: 90,
+    ID_GUILD_MEMBER_AMOUNT: 91,
+    ID_CHAT_WITH_FRIEND: 92,
+    ID_CHAT_TO_WORLD: 93,
+    ID_NEW_MAIL: 94,
+    ID_GUILD_BOXKEY: 95,
+    ID_GUILDMEMBER_KEYCOUNT: 96,
+};
+
+cc._RF.pop();
+        }
+        if (CC_EDITOR) {
+            __define(__module.exports, __require, __module);
+        }
+        else {
+            cc.registerModuleFunc(__filename, function () {
+                __define(__module.exports, __require, __module);
+            });
+        }
+        })();
+        //# sourceMappingURL=dataids.js.map
+        

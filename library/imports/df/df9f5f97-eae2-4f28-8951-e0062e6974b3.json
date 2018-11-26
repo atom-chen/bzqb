@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sp_discount",
+    "texture": "4e107aed-49af-4f94-9ef9-52c4345ac8fd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      93,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      93,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

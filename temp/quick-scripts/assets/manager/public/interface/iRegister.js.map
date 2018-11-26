@@ -1,0 +1,1 @@
+{"version":3,"sources":["iRegister.ts"],"names":[],"mappings":";;;;AAAA,UAAU","file":"","sourceRoot":"..\\..\\..\\..\\..\\..\\assets\\manager\\public\\interface","sourcesContent":["//创建角色数据模型\n\nexport interface register {\n    UID: number;            //玩家UID\n    nickname: string;       //玩家昵称\n    roleID: number;         //角色ID\n}"]}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "exitCards",
+    "texture": "1d463967-4b74-4375-8388-3971b3863f39",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      227,
+      145
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      227,
+      145
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

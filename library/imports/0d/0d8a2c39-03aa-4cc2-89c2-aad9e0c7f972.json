@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_checked",
+    "texture": "491f7128-4f5e-4907-8d95-caf8c294fb90",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      82,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      82,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

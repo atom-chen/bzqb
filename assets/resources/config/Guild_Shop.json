@@ -1,0 +1,11 @@
+[
+    {"id":10001,"skill_price_honor":[{"star":1,"honor":30},{"star":2,"honor":60},{"star":3,"honor":200},{"star":4,"honor":500}],"amount":{"min":2,"max":5}},
+    {"id":10002,"skill_price_honor":[{"star":1,"honor":30},{"star":2,"honor":60},{"star":3,"honor":200},{"star":4,"honor":500}],"amount":{"min":2,"max":5}},
+    {"id":10003,"skill_price_honor":[{"star":1,"honor":30},{"star":2,"honor":60},{"star":3,"honor":200},{"star":4,"honor":500}],"amount":{"min":2,"max":5}},
+    {"id":10004,"skill_price_honor":[{"star":1,"honor":30},{"star":2,"honor":60},{"star":3,"honor":200},{"star":4,"honor":500}],"amount":{"min":2,"max":5}},
+    {"id":10005,"skill_price_honor":[{"star":1,"honor":30},{"star":2,"honor":60},{"star":3,"honor":200},{"star":4,"honor":500}],"amount":{"min":2,"max":5}},
+    {"id":10006,"skill_price_honor":[{"star":1,"honor":30},{"star":2,"honor":60},{"star":3,"honor":200},{"star":4,"honor":500}],"amount":{"min":2,"max":5}},
+    {"id":10007,"skill_price_honor":[{"star":1,"honor":30},{"star":2,"honor":60},{"star":3,"honor":200},{"star":4,"honor":500}],"amount":{"min":2,"max":5}},
+    {"id":10008,"skill_price_honor":[{"star":1,"honor":30},{"star":2,"honor":60},{"star":3,"honor":200},{"star":4,"honor":500}],"amount":{"min":2,"max":5}},
+    {"id":10009,"skill_price_honor":[{"star":1,"honor":30},{"star":2,"honor":60},{"star":3,"honor":200},{"star":4,"honor":500}],"amount":{"min":2,"max":5}}
+]

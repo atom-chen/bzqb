@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cardpower",
+    "texture": "3557927b-d033-42d1-ba62-4d29b6420b8c",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      49,
+      49
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      50,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

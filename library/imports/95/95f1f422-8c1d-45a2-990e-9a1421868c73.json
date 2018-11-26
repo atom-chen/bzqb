@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "movepowerBg",
+    "texture": "49705d74-08ae-4658-b916-fd40d93c8867",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      20,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      20,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

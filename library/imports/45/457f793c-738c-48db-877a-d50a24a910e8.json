@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "note_card",
+    "texture": "e73bf767-b226-4b1b-bd40-f5dbb484b6a7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      603,
+      340
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      603,
+      340
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

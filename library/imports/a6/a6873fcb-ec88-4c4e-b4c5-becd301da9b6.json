@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_unlock",
+    "texture": "724be04e-03f8-435d-aada-0cb71981c852",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      174,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      174,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "moneyBG",
+    "texture": "6dc34849-92a3-4e61-8033-bf0136a42ef5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      800,
+      478
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      800,
+      478
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buyReset",
+    "texture": "3669fb6e-ca36-484a-9935-4e53167d2dee",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      116,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      116,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

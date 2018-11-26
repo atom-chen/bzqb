@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d62d7b73-adae-4ba7-a34e-e591764c58ac",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "kingIco": {
+      "ver": "1.0.3",
+      "uuid": "48f8fc3d-1dd6-499c-9b8a-18f007a323eb",
+      "rawTextureUuid": "d62d7b73-adae-4ba7-a34e-e591764c58ac",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 50,
+      "height": 50,
+      "rawWidth": 50,
+      "rawHeight": 50,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

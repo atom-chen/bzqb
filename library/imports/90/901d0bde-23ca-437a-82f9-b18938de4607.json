@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "decline",
+    "texture": "3f32c84a-59be-48ce-80c3-6ab513ec837b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      20,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      20,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

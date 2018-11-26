@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "roleFrame",
+    "texture": "4cb51a3c-8813-4e0c-bf19-fa3be53e60d8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      508,
+      577
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      508,
+      577
+    ],
+    "capInsets": [
+      170,
+      170,
+      170,
+      170
+    ]
+  }
+}

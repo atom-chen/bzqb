@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kingIco",
+    "texture": "18548a8d-71ec-4515-95c4-fdb8bff06964",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      29,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      29,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

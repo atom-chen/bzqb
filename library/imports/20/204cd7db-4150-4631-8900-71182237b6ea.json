@@ -1,0 +1,11 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "localsetting",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "cfgurl": "http://47.106.74.65/products_bzqb",
+    "logenable": true,
+    "producttag": "test_hyserver"
+  }
+}

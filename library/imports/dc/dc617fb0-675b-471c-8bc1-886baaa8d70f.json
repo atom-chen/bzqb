@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CompetitivePattern",
+    "texture": "a0a7c679-ae60-405e-af67-3a5499b0a4cd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      152,
+      299
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      152,
+      299
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

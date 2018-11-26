@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "talenMiddle2",
+    "texture": "5e3b4d08-121c-4ee9-9b7b-a4d31c415409",
+    "atlas": "",
+    "rect": [
+      9,
+      9,
+      65,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      83,
+      83
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

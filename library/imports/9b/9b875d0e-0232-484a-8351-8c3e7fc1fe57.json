@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lace",
+    "texture": "83db09c8-4c77-4a78-abb2-e43a8082dbd2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      268,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      268,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

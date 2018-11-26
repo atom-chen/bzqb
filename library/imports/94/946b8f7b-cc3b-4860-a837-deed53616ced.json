@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "talent_2010",
+    "texture": "849a0498-25b0-4216-a5e4-e398ae6f50fe",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      35,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      35,
+      37
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

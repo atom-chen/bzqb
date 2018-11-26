@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lab_sort",
+    "texture": "ca88b42c-7751-4a95-b782-6249ba5e8364",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      178,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      178,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

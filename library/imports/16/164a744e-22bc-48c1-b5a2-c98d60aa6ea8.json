@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mysteriousShopBG",
+    "texture": "564a901c-4d97-476c-bba7-f6be2e712eee",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      800,
+      479
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      800,
+      479
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "天赋起点-红色箭头",
+    "texture": "1cad6221-d3dd-4e56-88b0-fdb9434e6509",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      27,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      27,
+      52
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

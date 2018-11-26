@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "63c5db6d-2007-42e8-a484-16c26dfefc8b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "货币-粉晶": {
+      "ver": "1.0.3",
+      "uuid": "390e41be-4789-4f68-a423-98bf95251529",
+      "rawTextureUuid": "63c5db6d-2007-42e8-a484-16c26dfefc8b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 40,
+      "height": 45,
+      "rawWidth": 40,
+      "rawHeight": 45,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

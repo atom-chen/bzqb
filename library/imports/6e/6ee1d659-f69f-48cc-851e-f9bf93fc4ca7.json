@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Suspensionframe",
+    "texture": "f989812c-20a6-4cb1-9f0d-8eb15f4f65bb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      381,
+      215
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      382,
+      216
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

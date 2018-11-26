@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cardUpLv",
+    "texture": "7e0f7a0f-90ff-4b8e-b226-1a297631d60a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      191,
+      279
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      191,
+      279
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

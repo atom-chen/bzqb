@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "564a901c-4d97-476c-bba7-f6be2e712eee",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "mysteriousShopBG": {
+      "ver": "1.0.3",
+      "uuid": "164a744e-22bc-48c1-b5a2-c98d60aa6ea8",
+      "rawTextureUuid": "564a901c-4d97-476c-bba7-f6be2e712eee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 479,
+      "rawWidth": 800,
+      "rawHeight": 479,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

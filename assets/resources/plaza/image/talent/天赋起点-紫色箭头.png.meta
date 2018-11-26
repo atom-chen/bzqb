@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2025bb3f-3721-409d-886a-eaac98578116",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "天赋起点-紫色箭头": {
+      "ver": "1.0.3",
+      "uuid": "417eb558-90fa-4e52-acc2-88f022d7e2fa",
+      "rawTextureUuid": "2025bb3f-3721-409d-886a-eaac98578116",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 52,
+      "height": 27,
+      "rawWidth": 52,
+      "rawHeight": 27,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

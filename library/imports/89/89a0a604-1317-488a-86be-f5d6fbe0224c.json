@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "上栏底-透明底可拉伸",
+    "texture": "10fae756-d685-42cb-9f54-79f72d1a79bf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      59,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      59,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

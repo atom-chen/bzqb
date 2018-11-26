@@ -1,0 +1,103 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "attribute_text_attributes",
+  "_objFlags": 0,
+  "_native": "",
+  "json": [
+    {
+      "name": "damage",
+      "des": "伤害增加",
+      "image": null
+    },
+    {
+      "name": "everytime_damage",
+      "des": "每次伤害",
+      "image": null
+    },
+    {
+      "name": "effect_range",
+      "des": "效果范围",
+      "image": null
+    },
+    {
+      "name": "explosion_range",
+      "des": "爆炸范围",
+      "image": null
+    },
+    {
+      "name": "crit_rate",
+      "des": "暴击率",
+      "image": null
+    },
+    {
+      "name": "add_ball",
+      "des": "额外炮弹",
+      "image": null
+    },
+    {
+      "name": "split_ball",
+      "des": "分裂炮弹",
+      "image": null
+    },
+    {
+      "name": "each_injury",
+      "des": "每发增伤",
+      "image": null
+    },
+    {
+      "name": "bouncing_times",
+      "des": "弹跳次数",
+      "image": null
+    },
+    {
+      "name": "bouncing_injury",
+      "des": "弹跳增伤",
+      "image": null
+    },
+    {
+      "name": "moving_distance",
+      "des": "移动距离",
+      "image": null
+    },
+    {
+      "name": "injured",
+      "des": "自身损血",
+      "image": null
+    },
+    {
+      "name": "blood_damage",
+      "des": "损血增伤",
+      "image": null
+    },
+    {
+      "name": "shield",
+      "des": "护盾",
+      "image": null
+    },
+    {
+      "name": "avoid_shells",
+      "des": "免疫炮弹",
+      "image": null
+    },
+    {
+      "name": "reply_actionvalue",
+      "des": "回复行动",
+      "image": null
+    },
+    {
+      "name": "crit_rate",
+      "des": "暴击率",
+      "image": null
+    },
+    {
+      "name": "continuous_round",
+      "des": "持续回合",
+      "image": null
+    },
+    {
+      "name": "freeze_round",
+      "des": "冻结回合",
+      "image": null
+    }
+  ]
+}

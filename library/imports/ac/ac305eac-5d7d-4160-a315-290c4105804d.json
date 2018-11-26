@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "invitePlayer",
+    "texture": "34bfbde9-b41c-4267-a66d-99dd39c66ff3",
+    "atlas": "",
+    "rect": [
+      47,
+      30,
+      183,
+      58
+    ],
+    "offset": [
+      -40,
+      16
+    ],
+    "originalSize": [
+      357,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

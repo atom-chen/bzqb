@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GradeBox",
+    "texture": "4a33cb0e-6b84-493a-b60b-9a7af182d8fb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      195,
+      184
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      195,
+      184
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

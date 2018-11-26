@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "monthlyCard",
+    "texture": "654beefc-a177-4533-a5cb-a8d8e997f3ce",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      800,
+      481
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      800,
+      481
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paokeng_back",
+    "texture": "6c5a3e4e-5e0a-473c-803c-795a5a5408b6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      300,
+      200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

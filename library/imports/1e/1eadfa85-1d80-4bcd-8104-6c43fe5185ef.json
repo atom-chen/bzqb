@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "costDes",
+    "texture": "2a452fd8-0fa3-4ee8-a2e4-fed860ce9ed9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

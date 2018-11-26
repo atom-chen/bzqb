@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "again_signIn",
+    "texture": "d42bb40b-0251-4786-afcb-991fdf741364",
+    "atlas": "",
+    "rect": [
+      12,
+      15,
+      112,
+      40
+    ],
+    "offset": [
+      3.5,
+      -2.5
+    ],
+    "originalSize": [
+      129,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

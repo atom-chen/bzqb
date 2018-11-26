@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Infinite",
+    "texture": "b2f0745e-b9f8-4da3-b314-b7d5e191f4fa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      34,
+      14
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      34,
+      14
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

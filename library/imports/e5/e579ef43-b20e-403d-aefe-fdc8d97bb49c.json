@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "货币数量框",
+    "texture": "6ac028fb-300c-4ccd-960b-b19d22b6026c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      190,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
